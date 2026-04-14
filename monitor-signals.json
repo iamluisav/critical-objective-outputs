@@ -1,0 +1,2922 @@
+{
+  "generated_at": "2026-04-14T03:18:48.324030+00:00",
+  "snapshot_date": "2026-04-13",
+  "days_of_history": 0,
+  "signals": [],
+  "sector_summary": [
+    {
+      "sector": "Defense Tech",
+      "companies": 23,
+      "total_jobs": 3101,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "direction": "flat"
+    },
+    {
+      "sector": "Space",
+      "companies": 21,
+      "total_jobs": 1821,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "direction": "flat"
+    },
+    {
+      "sector": "AI / ML",
+      "companies": 10,
+      "total_jobs": 960,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "direction": "flat"
+    },
+    {
+      "sector": "Robotics",
+      "companies": 15,
+      "total_jobs": 559,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "direction": "flat"
+    },
+    {
+      "sector": "Energy",
+      "companies": 18,
+      "total_jobs": 534,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "direction": "flat"
+    },
+    {
+      "sector": "Autonomy",
+      "companies": 6,
+      "total_jobs": 477,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "direction": "flat"
+    },
+    {
+      "sector": "Aviation",
+      "companies": 10,
+      "total_jobs": 418,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "direction": "flat"
+    },
+    {
+      "sector": "Hard Tech",
+      "companies": 13,
+      "total_jobs": 344,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "direction": "flat"
+    },
+    {
+      "sector": "Logistics",
+      "companies": 3,
+      "total_jobs": 149,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "direction": "flat"
+    },
+    {
+      "sector": "Manufacturing",
+      "companies": 6,
+      "total_jobs": 109,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "direction": "flat"
+    },
+    {
+      "sector": "Biotech",
+      "companies": 3,
+      "total_jobs": 106,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "direction": "flat"
+    },
+    {
+      "sector": "Software",
+      "companies": 5,
+      "total_jobs": 106,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "direction": "flat"
+    },
+    {
+      "sector": "Semiconductors",
+      "companies": 6,
+      "total_jobs": 82,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "direction": "flat"
+    }
+  ],
+  "company_rankings": [
+    {
+      "company_id": "anduril",
+      "company_name": "Anduril",
+      "sector": "Defense Tech",
+      "current_jobs": 1816,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        1816
+      ],
+      "rank": 1
+    },
+    {
+      "company_id": "anthropic",
+      "company_name": "Anthropic",
+      "sector": "AI / ML",
+      "current_jobs": 428,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        428
+      ],
+      "rank": 2
+    },
+    {
+      "company_id": "relativity-space",
+      "company_name": "Relativity Space",
+      "sector": "Space",
+      "current_jobs": 299,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        299
+      ],
+      "rank": 3
+    },
+    {
+      "company_id": "rocket-lab",
+      "company_name": "Rocket Lab",
+      "sector": "Space",
+      "current_jobs": 263,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        263
+      ],
+      "rank": 4
+    },
+    {
+      "company_id": "saronic",
+      "company_name": "Saronic",
+      "sector": "Space",
+      "current_jobs": 263,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        263
+      ],
+      "rank": 5
+    },
+    {
+      "company_id": "shield-ai",
+      "company_name": "Shield AI",
+      "sector": "Defense Tech",
+      "current_jobs": 253,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        253
+      ],
+      "rank": 6
+    },
+    {
+      "company_id": "palantir",
+      "company_name": "Palantir",
+      "sector": "Defense Tech",
+      "current_jobs": 241,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        241
+      ],
+      "rank": 7
+    },
+    {
+      "company_id": "archer-aviation",
+      "company_name": "Archer Aviation",
+      "sector": "Aviation",
+      "current_jobs": 225,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        225
+      ],
+      "rank": 8
+    },
+    {
+      "company_id": "applied-intuition",
+      "company_name": "Applied Intuition",
+      "sector": "Autonomy",
+      "current_jobs": 195,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        195
+      ],
+      "rank": 9
+    },
+    {
+      "company_id": "zipline",
+      "company_name": "Zipline",
+      "sector": "Robotics",
+      "current_jobs": 194,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        194
+      ],
+      "rank": 10
+    },
+    {
+      "company_id": "cesiumastro",
+      "company_name": "CesiumAstro",
+      "sector": "Space",
+      "current_jobs": 188,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        188
+      ],
+      "rank": 11
+    },
+    {
+      "company_id": "hadrian",
+      "company_name": "Hadrian",
+      "sector": "Defense Tech",
+      "current_jobs": 180,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        180
+      ],
+      "rank": 12
+    },
+    {
+      "company_id": "scale-ai",
+      "company_name": "Scale AI",
+      "sector": "AI / ML",
+      "current_jobs": 173,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        173
+      ],
+      "rank": 13
+    },
+    {
+      "company_id": "sierra",
+      "company_name": "Sierra",
+      "sector": "Defense Tech",
+      "current_jobs": 161,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "unknown",
+      "sparkline": [
+        161
+      ],
+      "rank": 14
+    },
+    {
+      "company_id": "true-anomaly",
+      "company_name": "True Anomaly",
+      "sector": "Defense Tech",
+      "current_jobs": 158,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        158
+      ],
+      "rank": 15
+    },
+    {
+      "company_id": "vast-space",
+      "company_name": "Vast Space",
+      "sector": "Space",
+      "current_jobs": 146,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        146
+      ],
+      "rank": 16
+    },
+    {
+      "company_id": "flexport",
+      "company_name": "Flexport",
+      "sector": "Logistics",
+      "current_jobs": 134,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        134
+      ],
+      "rank": 17
+    },
+    {
+      "company_id": "helion-energy",
+      "company_name": "Helion Energy",
+      "sector": "Energy",
+      "current_jobs": 130,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        130
+      ],
+      "rank": 18
+    },
+    {
+      "company_id": "astranis",
+      "company_name": "Astranis",
+      "sector": "Space",
+      "current_jobs": 126,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        126
+      ],
+      "rank": 19
+    },
+    {
+      "company_id": "skydio",
+      "company_name": "Skydio",
+      "sector": "Autonomy",
+      "current_jobs": 124,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        124
+      ],
+      "rank": 20
+    },
+    {
+      "company_id": "planet-labs",
+      "company_name": "Planet Labs",
+      "sector": "Space",
+      "current_jobs": 114,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        114
+      ],
+      "rank": 21
+    },
+    {
+      "company_id": "hermeus",
+      "company_name": "Hermeus",
+      "sector": "Aviation",
+      "current_jobs": 110,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        110
+      ],
+      "rank": 22
+    },
+    {
+      "company_id": "tenstorrent",
+      "company_name": "Tenstorrent",
+      "sector": "AI / ML",
+      "current_jobs": 107,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        107
+      ],
+      "rank": 23
+    },
+    {
+      "company_id": "figure-ai",
+      "company_name": "Figure AI",
+      "sector": "Robotics",
+      "current_jobs": 101,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        101
+      ],
+      "rank": 24
+    },
+    {
+      "company_id": "cerebras-systems",
+      "company_name": "Cerebras Systems",
+      "sector": "AI / ML",
+      "current_jobs": 96,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        96
+      ],
+      "rank": 25
+    },
+    {
+      "company_id": "nuro",
+      "company_name": "Nuro",
+      "sector": "Autonomy",
+      "current_jobs": 96,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        96
+      ],
+      "rank": 26
+    },
+    {
+      "company_id": "base-power",
+      "company_name": "Base Power",
+      "sector": "Energy",
+      "current_jobs": 91,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        91
+      ],
+      "rank": 27
+    },
+    {
+      "company_id": "cognition",
+      "company_name": "Cognition",
+      "sector": "AI / ML",
+      "current_jobs": 88,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        88
+      ],
+      "rank": 28
+    },
+    {
+      "company_id": "replit",
+      "company_name": "Replit",
+      "sector": "Software",
+      "current_jobs": 86,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        86
+      ],
+      "rank": 29
+    },
+    {
+      "company_id": "apex-space",
+      "company_name": "Apex Space",
+      "sector": "Space",
+      "current_jobs": 84,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        84
+      ],
+      "rank": 30
+    },
+    {
+      "company_id": "mach-industries",
+      "company_name": "Mach Industries",
+      "sector": "Hard Tech",
+      "current_jobs": 71,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        71
+      ],
+      "rank": 31
+    },
+    {
+      "company_id": "mariana-minerals",
+      "company_name": "Mariana Minerals",
+      "sector": "Biotech",
+      "current_jobs": 70,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        70
+      ],
+      "rank": 32
+    },
+    {
+      "company_id": "northwood-space",
+      "company_name": "Northwood Space",
+      "sector": "Space",
+      "current_jobs": 67,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        67
+      ],
+      "rank": 33
+    },
+    {
+      "company_id": "varda-space",
+      "company_name": "Varda Space",
+      "sector": "Space",
+      "current_jobs": 67,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        67
+      ],
+      "rank": 34
+    },
+    {
+      "company_id": "sardine",
+      "company_name": "Sardine",
+      "sector": "Defense Tech",
+      "current_jobs": 56,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "unknown",
+      "sparkline": [
+        56
+      ],
+      "rank": 35
+    },
+    {
+      "company_id": "govini",
+      "company_name": "Govini",
+      "sector": "Defense Tech",
+      "current_jobs": 48,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        48
+      ],
+      "rank": 36
+    },
+    {
+      "company_id": "agility-robotics",
+      "company_name": "Agility Robotics",
+      "sector": "Robotics",
+      "current_jobs": 47,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        47
+      ],
+      "rank": 37
+    },
+    {
+      "company_id": "gecko-robotics",
+      "company_name": "Gecko Robotics",
+      "sector": "Robotics",
+      "current_jobs": 47,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        47
+      ],
+      "rank": 38
+    },
+    {
+      "company_id": "commonwealth-fusion",
+      "company_name": "Commonwealth Fusion",
+      "sector": "Energy",
+      "current_jobs": 46,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        46
+      ],
+      "rank": 39
+    },
+    {
+      "company_id": "ursa-major",
+      "company_name": "Ursa Major",
+      "sector": "Space",
+      "current_jobs": 44,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        44
+      ],
+      "rank": 40
+    },
+    {
+      "company_id": "icon",
+      "company_name": "ICON",
+      "sector": "Manufacturing",
+      "current_jobs": 41,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        41
+      ],
+      "rank": 41
+    },
+    {
+      "company_id": "standard-bots",
+      "company_name": "Standard Bots",
+      "sector": "Robotics",
+      "current_jobs": 41,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        41
+      ],
+      "rank": 42
+    },
+    {
+      "company_id": "xona-space-systems",
+      "company_name": "Xona Space Systems",
+      "sector": "Space",
+      "current_jobs": 41,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        41
+      ],
+      "rank": 43
+    },
+    {
+      "company_id": "aeva",
+      "company_name": "Aeva",
+      "sector": "Hard Tech",
+      "current_jobs": 40,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        40
+      ],
+      "rank": 44
+    },
+    {
+      "company_id": "proxima-fusion",
+      "company_name": "Proxima Fusion",
+      "sector": "Hard Tech",
+      "current_jobs": 40,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        40
+      ],
+      "rank": 45
+    },
+    {
+      "company_id": "campus",
+      "company_name": "Campus",
+      "sector": "Hard Tech",
+      "current_jobs": 38,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "unknown",
+      "sparkline": [
+        38
+      ],
+      "rank": 46
+    },
+    {
+      "company_id": "heron-power",
+      "company_name": "Heron Power",
+      "sector": "Energy",
+      "current_jobs": 38,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        38
+      ],
+      "rank": 47
+    },
+    {
+      "company_id": "muon-space",
+      "company_name": "Muon Space",
+      "sector": "Space",
+      "current_jobs": 38,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        38
+      ],
+      "rank": 48
+    },
+    {
+      "company_id": "pacific-fusion",
+      "company_name": "Pacific Fusion",
+      "sector": "Energy",
+      "current_jobs": 36,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        36
+      ],
+      "rank": 49
+    },
+    {
+      "company_id": "last-energy",
+      "company_name": "Last Energy",
+      "sector": "Energy",
+      "current_jobs": 34,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        34
+      ],
+      "rank": 50
+    },
+    {
+      "company_id": "echodyne",
+      "company_name": "Echodyne",
+      "sector": "Hard Tech",
+      "current_jobs": 33,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        33
+      ],
+      "rank": 51
+    },
+    {
+      "company_id": "gridware",
+      "company_name": "Gridware",
+      "sector": "Energy",
+      "current_jobs": 33,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        33
+      ],
+      "rank": 52
+    },
+    {
+      "company_id": "epirus",
+      "company_name": "Epirus",
+      "sector": "Defense Tech",
+      "current_jobs": 31,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        31
+      ],
+      "rank": 53
+    },
+    {
+      "company_id": "hebbia",
+      "company_name": "Hebbia",
+      "sector": "AI / ML",
+      "current_jobs": 31,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "unknown",
+      "sparkline": [
+        31
+      ],
+      "rank": 54
+    },
+    {
+      "company_id": "overland-ai",
+      "company_name": "Overland AI",
+      "sector": "Autonomy",
+      "current_jobs": 31,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        31
+      ],
+      "rank": 55
+    },
+    {
+      "company_id": "atomic-semi",
+      "company_name": "Atomic Semi",
+      "sector": "Semiconductors",
+      "current_jobs": 30,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        30
+      ],
+      "rank": 56
+    },
+    {
+      "company_id": "merlin-labs",
+      "company_name": "Merlin Labs",
+      "sector": "Autonomy",
+      "current_jobs": 28,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        28
+      ],
+      "rank": 57
+    },
+    {
+      "company_id": "aetherflux",
+      "company_name": "Aetherflux",
+      "sector": "Hard Tech",
+      "current_jobs": 26,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        26
+      ],
+      "rank": 58
+    },
+    {
+      "company_id": "north-slope-technologies",
+      "company_name": "North Slope Technologies",
+      "sector": "Defense Tech",
+      "current_jobs": 26,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        26
+      ],
+      "rank": 59
+    },
+    {
+      "company_id": "turion-space",
+      "company_name": "Turion Space",
+      "sector": "Space",
+      "current_jobs": 26,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        26
+      ],
+      "rank": 60
+    },
+    {
+      "company_id": "dandelion-energy",
+      "company_name": "Dandelion Energy",
+      "sector": "Energy",
+      "current_jobs": 25,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        25
+      ],
+      "rank": 61
+    },
+    {
+      "company_id": "kobold-metals",
+      "company_name": "KoBold Metals",
+      "sector": "Biotech",
+      "current_jobs": 25,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        25
+      ],
+      "rank": 62
+    },
+    {
+      "company_id": "onebrief",
+      "company_name": "Onebrief",
+      "sector": "Defense Tech",
+      "current_jobs": 25,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        25
+      ],
+      "rank": 63
+    },
+    {
+      "company_id": "picogrid",
+      "company_name": "Picogrid",
+      "sector": "Energy",
+      "current_jobs": 25,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        25
+      ],
+      "rank": 64
+    },
+    {
+      "company_id": "vannevar-labs",
+      "company_name": "Vannevar Labs",
+      "sector": "Defense Tech",
+      "current_jobs": 25,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        25
+      ],
+      "rank": 65
+    },
+    {
+      "company_id": "astro-mechanica",
+      "company_name": "Astro Mechanica",
+      "sector": "Hard Tech",
+      "current_jobs": 23,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        23
+      ],
+      "rank": 66
+    },
+    {
+      "company_id": "heart-aerospace",
+      "company_name": "Heart Aerospace",
+      "sector": "Aviation",
+      "current_jobs": 23,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        23
+      ],
+      "rank": 67
+    },
+    {
+      "company_id": "inversion",
+      "company_name": "Inversion",
+      "sector": "Hard Tech",
+      "current_jobs": 23,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        23
+      ],
+      "rank": 68
+    },
+    {
+      "company_id": "velo3d",
+      "company_name": "Velo3D",
+      "sector": "Manufacturing",
+      "current_jobs": 23,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        23
+      ],
+      "rank": 69
+    },
+    {
+      "company_id": "vulcan-elements",
+      "company_name": "Vulcan Elements",
+      "sector": "Semiconductors",
+      "current_jobs": 23,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        23
+      ],
+      "rank": 70
+    },
+    {
+      "company_id": "anysignal",
+      "company_name": "AnySignal",
+      "sector": "Defense Tech",
+      "current_jobs": 22,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        22
+      ],
+      "rank": 71
+    },
+    {
+      "company_id": "physical-intelligence",
+      "company_name": "Physical Intelligence",
+      "sector": "Robotics",
+      "current_jobs": 22,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        22
+      ],
+      "rank": 72
+    },
+    {
+      "company_id": "orchard-robotics",
+      "company_name": "Orchard Robotics",
+      "sector": "Robotics",
+      "current_jobs": 20,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        20
+      ],
+      "rank": 73
+    },
+    {
+      "company_id": "machina-labs",
+      "company_name": "Machina Labs",
+      "sector": "Manufacturing",
+      "current_jobs": 19,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        19
+      ],
+      "rank": 74
+    },
+    {
+      "company_id": "airspace-intelligence",
+      "company_name": "Airspace Intelligence",
+      "sector": "Defense Tech",
+      "current_jobs": 18,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        18
+      ],
+      "rank": 75
+    },
+    {
+      "company_id": "diligent-robotics",
+      "company_name": "Diligent Robotics",
+      "sector": "Robotics",
+      "current_jobs": 18,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        18
+      ],
+      "rank": 76
+    },
+    {
+      "company_id": "fuse-energy",
+      "company_name": "Fuse Energy",
+      "sector": "Energy",
+      "current_jobs": 17,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        17
+      ],
+      "rank": 77
+    },
+    {
+      "company_id": "osmo",
+      "company_name": "Osmo",
+      "sector": "Hard Tech",
+      "current_jobs": 17,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        17
+      ],
+      "rank": 78
+    },
+    {
+      "company_id": "traba",
+      "company_name": "Traba",
+      "sector": "Robotics",
+      "current_jobs": 17,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        17
+      ],
+      "rank": 79
+    },
+    {
+      "company_id": "pivot-bio",
+      "company_name": "Pivot Bio",
+      "sector": "Energy",
+      "current_jobs": 16,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        16
+      ],
+      "rank": 80
+    },
+    {
+      "company_id": "windborne-systems",
+      "company_name": "WindBorne Systems",
+      "sector": "Hard Tech",
+      "current_jobs": 16,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        16
+      ],
+      "rank": 81
+    },
+    {
+      "company_id": "atom-computing",
+      "company_name": "Atom Computing",
+      "sector": "Semiconductors",
+      "current_jobs": 15,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        15
+      ],
+      "rank": 82
+    },
+    {
+      "company_id": "odys-aviation",
+      "company_name": "Odys Aviation",
+      "sector": "Aviation",
+      "current_jobs": 15,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        15
+      ],
+      "rank": 83
+    },
+    {
+      "company_id": "rigetti-computing",
+      "company_name": "Rigetti Computing",
+      "sector": "AI / ML",
+      "current_jobs": 15,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        15
+      ],
+      "rank": 84
+    },
+    {
+      "company_id": "chef-robotics",
+      "company_name": "Chef Robotics",
+      "sector": "Robotics",
+      "current_jobs": 14,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        14
+      ],
+      "rank": 85
+    },
+    {
+      "company_id": "collaborative-robotics",
+      "company_name": "Collaborative Robotics",
+      "sector": "Robotics",
+      "current_jobs": 14,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        14
+      ],
+      "rank": 86
+    },
+    {
+      "company_id": "first-resonance",
+      "company_name": "First Resonance",
+      "sector": "Manufacturing",
+      "current_jobs": 14,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        14
+      ],
+      "rank": 87
+    },
+    {
+      "company_id": "slingshot-aerospace",
+      "company_name": "Slingshot Aerospace",
+      "sector": "Space",
+      "current_jobs": 14,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        14
+      ],
+      "rank": 88
+    },
+    {
+      "company_id": "venus-aerospace",
+      "company_name": "Venus Aerospace",
+      "sector": "Aviation",
+      "current_jobs": 14,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        14
+      ],
+      "rank": 89
+    },
+    {
+      "company_id": "urban-sky",
+      "company_name": "Urban Sky",
+      "sector": "Aviation",
+      "current_jobs": 13,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        13
+      ],
+      "rank": 90
+    },
+    {
+      "company_id": "zanskar",
+      "company_name": "Zanskar",
+      "sector": "Space",
+      "current_jobs": 13,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        13
+      ],
+      "rank": 91
+    },
+    {
+      "company_id": "conductor-ai",
+      "company_name": "Conductor AI",
+      "sector": "AI / ML",
+      "current_jobs": 12,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        12
+      ],
+      "rank": 92
+    },
+    {
+      "company_id": "newlimit",
+      "company_name": "NewLimit",
+      "sector": "Robotics",
+      "current_jobs": 12,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        12
+      ],
+      "rank": 93
+    },
+    {
+      "company_id": "quindar",
+      "company_name": "Quindar",
+      "sector": "Space",
+      "current_jobs": 12,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        12
+      ],
+      "rank": 94
+    },
+    {
+      "company_id": "ginkgo-bioworks",
+      "company_name": "Ginkgo Bioworks",
+      "sector": "Biotech",
+      "current_jobs": 11,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        11
+      ],
+      "rank": 95
+    },
+    {
+      "company_id": "turbineone",
+      "company_name": "TurbineOne",
+      "sector": "Energy",
+      "current_jobs": 11,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        11
+      ],
+      "rank": 96
+    },
+    {
+      "company_id": "xage-security",
+      "company_name": "Xage Security",
+      "sector": "Defense Tech",
+      "current_jobs": 10,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        10
+      ],
+      "rank": 97
+    },
+    {
+      "company_id": "beacon-ai",
+      "company_name": "Beacon AI",
+      "sector": "AI / ML",
+      "current_jobs": 9,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        9
+      ],
+      "rank": 98
+    },
+    {
+      "company_id": "swan-technologies",
+      "company_name": "Swan Technologies",
+      "sector": "Hard Tech",
+      "current_jobs": 9,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        9
+      ],
+      "rank": 99
+    },
+    {
+      "company_id": "twelve",
+      "company_name": "Twelve",
+      "sector": "Semiconductors",
+      "current_jobs": 9,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        9
+      ],
+      "rank": 100
+    },
+    {
+      "company_id": "amp-robotics",
+      "company_name": "AMP Robotics",
+      "sector": "Manufacturing",
+      "current_jobs": 8,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        8
+      ],
+      "rank": 101
+    },
+    {
+      "company_id": "h3x",
+      "company_name": "H3X",
+      "sector": "Aviation",
+      "current_jobs": 8,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        8
+      ],
+      "rank": 102
+    },
+    {
+      "company_id": "make-rain",
+      "company_name": "Make Rain",
+      "sector": "Logistics",
+      "current_jobs": 8,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        8
+      ],
+      "rank": 103
+    },
+    {
+      "company_id": "rangeview",
+      "company_name": "Rangeview",
+      "sector": "Software",
+      "current_jobs": 8,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        8
+      ],
+      "rank": 104
+    },
+    {
+      "company_id": "shift5",
+      "company_name": "Shift5",
+      "sector": "Defense Tech",
+      "current_jobs": 8,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        8
+      ],
+      "rank": 105
+    },
+    {
+      "company_id": "starcloud",
+      "company_name": "StarCloud",
+      "sector": "Space",
+      "current_jobs": 8,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        8
+      ],
+      "rank": 106
+    },
+    {
+      "company_id": "equilibrium-energy",
+      "company_name": "Equilibrium Energy",
+      "sector": "Energy",
+      "current_jobs": 7,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        7
+      ],
+      "rank": 107
+    },
+    {
+      "company_id": "galvanick",
+      "company_name": "Galvanick",
+      "sector": "Energy",
+      "current_jobs": 7,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        7
+      ],
+      "rank": 108
+    },
+    {
+      "company_id": "swift-solar",
+      "company_name": "Swift Solar",
+      "sector": "Energy",
+      "current_jobs": 7,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        7
+      ],
+      "rank": 109
+    },
+    {
+      "company_id": "workrise",
+      "company_name": "Workrise",
+      "sector": "Logistics",
+      "current_jobs": 7,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        7
+      ],
+      "rank": 110
+    },
+    {
+      "company_id": "burro",
+      "company_name": "Burro",
+      "sector": "Robotics",
+      "current_jobs": 6,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        6
+      ],
+      "rank": 111
+    },
+    {
+      "company_id": "exowatt",
+      "company_name": "Exowatt",
+      "sector": "Space",
+      "current_jobs": 6,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        6
+      ],
+      "rank": 112
+    },
+    {
+      "company_id": "charm-industrial",
+      "company_name": "Charm Industrial",
+      "sector": "Energy",
+      "current_jobs": 5,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        5
+      ],
+      "rank": 113
+    },
+    {
+      "company_id": "glimpse",
+      "company_name": "Glimpse",
+      "sector": "Software",
+      "current_jobs": 5,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        5
+      ],
+      "rank": 114
+    },
+    {
+      "company_id": "second-front-systems",
+      "company_name": "Second Front Systems",
+      "sector": "Defense Tech",
+      "current_jobs": 5,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        5
+      ],
+      "rank": 115
+    },
+    {
+      "company_id": "texture-energy",
+      "company_name": "Texture Energy",
+      "sector": "Energy",
+      "current_jobs": 5,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        5
+      ],
+      "rank": 116
+    },
+    {
+      "company_id": "union-tech",
+      "company_name": "Union Tech",
+      "sector": "Software",
+      "current_jobs": 5,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        5
+      ],
+      "rank": 117
+    },
+    {
+      "company_id": "viam",
+      "company_name": "Viam",
+      "sector": "Defense Tech",
+      "current_jobs": 5,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        5
+      ],
+      "rank": 118
+    },
+    {
+      "company_id": "cosmic-robotics",
+      "company_name": "Cosmic Robotics",
+      "sector": "Hard Tech",
+      "current_jobs": 4,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        4
+      ],
+      "rank": 119
+    },
+    {
+      "company_id": "electric-air",
+      "company_name": "Electric Air",
+      "sector": "Aviation",
+      "current_jobs": 4,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        4
+      ],
+      "rank": 120
+    },
+    {
+      "company_id": "epsilon3",
+      "company_name": "Epsilon3",
+      "sector": "Hard Tech",
+      "current_jobs": 4,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        4
+      ],
+      "rank": 121
+    },
+    {
+      "company_id": "floodbase",
+      "company_name": "Floodbase",
+      "sector": "Defense Tech",
+      "current_jobs": 4,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        4
+      ],
+      "rank": 122
+    },
+    {
+      "company_id": "molten-industries",
+      "company_name": "Molten Industries",
+      "sector": "Manufacturing",
+      "current_jobs": 4,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        4
+      ],
+      "rank": 123
+    },
+    {
+      "company_id": "beta-technologies",
+      "company_name": "Beta Technologies",
+      "sector": "Aviation",
+      "current_jobs": 3,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        3
+      ],
+      "rank": 124
+    },
+    {
+      "company_id": "brimstone",
+      "company_name": "Brimstone",
+      "sector": "Defense Tech",
+      "current_jobs": 3,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        3
+      ],
+      "rank": 125
+    },
+    {
+      "company_id": "chariot-defense",
+      "company_name": "Chariot Defense",
+      "sector": "Defense Tech",
+      "current_jobs": 3,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        3
+      ],
+      "rank": 126
+    },
+    {
+      "company_id": "dusty-robotics",
+      "company_name": "Dusty Robotics",
+      "sector": "Robotics",
+      "current_jobs": 3,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        3
+      ],
+      "rank": 127
+    },
+    {
+      "company_id": "elroy-air",
+      "company_name": "Elroy Air",
+      "sector": "Autonomy",
+      "current_jobs": 3,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        3
+      ],
+      "rank": 128
+    },
+    {
+      "company_id": "podium-automation",
+      "company_name": "Podium Automation",
+      "sector": "Robotics",
+      "current_jobs": 3,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        3
+      ],
+      "rank": 129
+    },
+    {
+      "company_id": "seurat",
+      "company_name": "Seurat",
+      "sector": "Semiconductors",
+      "current_jobs": 3,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        3
+      ],
+      "rank": 130
+    },
+    {
+      "company_id": "supernal",
+      "company_name": "Supernal",
+      "sector": "Aviation",
+      "current_jobs": 3,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        3
+      ],
+      "rank": 131
+    },
+    {
+      "company_id": "amperon",
+      "company_name": "Amperon",
+      "sector": "Semiconductors",
+      "current_jobs": 2,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        2
+      ],
+      "rank": 132
+    },
+    {
+      "company_id": "impulse-labs",
+      "company_name": "Impulse Labs",
+      "sector": "Defense Tech",
+      "current_jobs": 2,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        2
+      ],
+      "rank": 133
+    },
+    {
+      "company_id": "limbinal",
+      "company_name": "Limbinal",
+      "sector": "Software",
+      "current_jobs": 2,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        2
+      ],
+      "rank": 134
+    },
+    {
+      "company_id": "bedrock-energy",
+      "company_name": "Bedrock Energy",
+      "sector": "Energy",
+      "current_jobs": 1,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        1
+      ],
+      "rank": 135
+    },
+    {
+      "company_id": "capella-space",
+      "company_name": "Capella Space",
+      "sector": "Space",
+      "current_jobs": 1,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        1
+      ],
+      "rank": 136
+    },
+    {
+      "company_id": "cruxocm",
+      "company_name": "CruxOCM",
+      "sector": "Defense Tech",
+      "current_jobs": 1,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        1
+      ],
+      "rank": 137
+    },
+    {
+      "company_id": "primer-ai",
+      "company_name": "Primer AI",
+      "sector": "AI / ML",
+      "current_jobs": 1,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": [
+        1
+      ],
+      "rank": 138
+    },
+    {
+      "company_id": "solestial",
+      "company_name": "Solestial",
+      "sector": "Space",
+      "current_jobs": 1,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": [
+        1
+      ],
+      "rank": 139
+    }
+  ],
+  "us_hubs": [
+    {
+      "hub_name": "Other US",
+      "lat": null,
+      "lng": null,
+      "total_jobs": 6948,
+      "company_count": 72,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 2418,
+          "companies": 9
+        },
+        {
+          "sector": "Space",
+          "jobs": 1507,
+          "companies": 13
+        },
+        {
+          "sector": "AI / ML",
+          "jobs": 935,
+          "companies": 7
+        },
+        {
+          "sector": "Autonomy",
+          "jobs": 449,
+          "companies": 5
+        },
+        {
+          "sector": "Energy",
+          "jobs": 379,
+          "companies": 11
+        },
+        {
+          "sector": "Robotics",
+          "jobs": 349,
+          "companies": 8
+        },
+        {
+          "sector": "Aviation",
+          "jobs": 348,
+          "companies": 3
+        },
+        {
+          "sector": "Hard Tech",
+          "jobs": 159,
+          "companies": 4
+        },
+        {
+          "sector": "Logistics",
+          "jobs": 141,
+          "companies": 2
+        },
+        {
+          "sector": "Software",
+          "jobs": 91,
+          "companies": 2
+        },
+        {
+          "sector": "Biotech",
+          "jobs": 81,
+          "companies": 2
+        },
+        {
+          "sector": "Manufacturing",
+          "jobs": 56,
+          "companies": 3
+        },
+        {
+          "sector": "Semiconductors",
+          "jobs": 35,
+          "companies": 3
+        }
+      ]
+    },
+    {
+      "hub_name": "DC Metro",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "total_jobs": 5313,
+      "company_count": 29,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 2803,
+          "companies": 11
+        },
+        {
+          "sector": "Space",
+          "jobs": 1053,
+          "companies": 7
+        },
+        {
+          "sector": "AI / ML",
+          "jobs": 613,
+          "companies": 3
+        },
+        {
+          "sector": "Aviation",
+          "jobs": 335,
+          "companies": 2
+        },
+        {
+          "sector": "Robotics",
+          "jobs": 255,
+          "companies": 3
+        },
+        {
+          "sector": "Autonomy",
+          "jobs": 195,
+          "companies": 1
+        },
+        {
+          "sector": "Energy",
+          "jobs": 59,
+          "companies": 2
+        }
+      ]
+    },
+    {
+      "hub_name": "SF Bay Area",
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "total_jobs": 5306,
+      "company_count": 54,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 2666,
+          "companies": 8
+        },
+        {
+          "sector": "AI / ML",
+          "jobs": 916,
+          "companies": 7
+        },
+        {
+          "sector": "Space",
+          "jobs": 291,
+          "companies": 5
+        },
+        {
+          "sector": "Robotics",
+          "jobs": 265,
+          "companies": 8
+        },
+        {
+          "sector": "Energy",
+          "jobs": 256,
+          "companies": 8
+        },
+        {
+          "sector": "Aviation",
+          "jobs": 229,
+          "companies": 2
+        },
+        {
+          "sector": "Autonomy",
+          "jobs": 195,
+          "companies": 1
+        },
+        {
+          "sector": "Hard Tech",
+          "jobs": 189,
+          "companies": 7
+        },
+        {
+          "sector": "Logistics",
+          "jobs": 134,
+          "companies": 1
+        },
+        {
+          "sector": "Biotech",
+          "jobs": 70,
+          "companies": 1
+        },
+        {
+          "sector": "Semiconductors",
+          "jobs": 54,
+          "companies": 3
+        },
+        {
+          "sector": "Manufacturing",
+          "jobs": 41,
+          "companies": 3
+        }
+      ]
+    },
+    {
+      "hub_name": "LA / South Bay",
+      "lat": 33.9425,
+      "lng": -118.4081,
+      "total_jobs": 4313,
+      "company_count": 28,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 2207,
+          "companies": 5
+        },
+        {
+          "sector": "Space",
+          "jobs": 1152,
+          "companies": 9
+        },
+        {
+          "sector": "Aviation",
+          "jobs": 376,
+          "companies": 5
+        },
+        {
+          "sector": "Robotics",
+          "jobs": 295,
+          "companies": 2
+        },
+        {
+          "sector": "Logistics",
+          "jobs": 142,
+          "companies": 2
+        },
+        {
+          "sector": "Hard Tech",
+          "jobs": 94,
+          "companies": 2
+        },
+        {
+          "sector": "Energy",
+          "jobs": 25,
+          "companies": 1
+        },
+        {
+          "sector": "Manufacturing",
+          "jobs": 14,
+          "companies": 1
+        },
+        {
+          "sector": "Software",
+          "jobs": 8,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Boston",
+      "lat": 42.3601,
+      "lng": -71.0589,
+      "total_jobs": 2920,
+      "company_count": 10,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 2087,
+          "companies": 3
+        },
+        {
+          "sector": "AI / ML",
+          "jobs": 708,
+          "companies": 3
+        },
+        {
+          "sector": "Robotics",
+          "jobs": 88,
+          "companies": 2
+        },
+        {
+          "sector": "Space",
+          "jobs": 26,
+          "companies": 1
+        },
+        {
+          "sector": "Biotech",
+          "jobs": 11,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Atlanta",
+      "lat": 33.749,
+      "lng": -84.388,
+      "total_jobs": 2881,
+      "company_count": 7,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 1977,
+          "companies": 2
+        },
+        {
+          "sector": "AI / ML",
+          "jobs": 428,
+          "companies": 1
+        },
+        {
+          "sector": "Robotics",
+          "jobs": 194,
+          "companies": 1
+        },
+        {
+          "sector": "Logistics",
+          "jobs": 134,
+          "companies": 1
+        },
+        {
+          "sector": "Aviation",
+          "jobs": 110,
+          "companies": 1
+        },
+        {
+          "sector": "Hard Tech",
+          "jobs": 38,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Denver",
+      "lat": 39.7392,
+      "lng": -104.9903,
+      "total_jobs": 2666,
+      "company_count": 15,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 2262,
+          "companies": 5
+        },
+        {
+          "sector": "AI / ML",
+          "jobs": 185,
+          "companies": 2
+        },
+        {
+          "sector": "Logistics",
+          "jobs": 134,
+          "companies": 1
+        },
+        {
+          "sector": "Energy",
+          "jobs": 25,
+          "companies": 1
+        },
+        {
+          "sector": "Manufacturing",
+          "jobs": 22,
+          "companies": 2
+        },
+        {
+          "sector": "Aviation",
+          "jobs": 21,
+          "companies": 2
+        },
+        {
+          "sector": "Semiconductors",
+          "jobs": 15,
+          "companies": 1
+        },
+        {
+          "sector": "Software",
+          "jobs": 2,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Seattle",
+      "lat": 47.6062,
+      "lng": -122.3321,
+      "total_jobs": 2555,
+      "company_count": 13,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 2255,
+          "companies": 4
+        },
+        {
+          "sector": "Logistics",
+          "jobs": 134,
+          "companies": 1
+        },
+        {
+          "sector": "Robotics",
+          "jobs": 75,
+          "companies": 3
+        },
+        {
+          "sector": "Hard Tech",
+          "jobs": 33,
+          "companies": 1
+        },
+        {
+          "sector": "Autonomy",
+          "jobs": 31,
+          "companies": 1
+        },
+        {
+          "sector": "Space",
+          "jobs": 20,
+          "companies": 2
+        },
+        {
+          "sector": "Energy",
+          "jobs": 7,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Huntsville",
+      "lat": 34.7304,
+      "lng": -86.5861,
+      "total_jobs": 2004,
+      "company_count": 2,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 1816,
+          "companies": 1
+        },
+        {
+          "sector": "Space",
+          "jobs": 188,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Austin",
+      "lat": 30.2672,
+      "lng": -97.7431,
+      "total_jobs": 1907,
+      "company_count": 18,
+      "sector_breakdown": [
+        {
+          "sector": "AI / ML",
+          "jobs": 623,
+          "companies": 3
+        },
+        {
+          "sector": "Space",
+          "jobs": 457,
+          "companies": 3
+        },
+        {
+          "sector": "Robotics",
+          "jobs": 218,
+          "companies": 3
+        },
+        {
+          "sector": "Defense Tech",
+          "jobs": 180,
+          "companies": 1
+        },
+        {
+          "sector": "Logistics",
+          "jobs": 141,
+          "companies": 2
+        },
+        {
+          "sector": "Energy",
+          "jobs": 125,
+          "companies": 2
+        },
+        {
+          "sector": "Biotech",
+          "jobs": 70,
+          "companies": 1
+        },
+        {
+          "sector": "Manufacturing",
+          "jobs": 55,
+          "companies": 2
+        },
+        {
+          "sector": "Hard Tech",
+          "jobs": 38,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Raleigh / Durham",
+      "lat": 35.7796,
+      "lng": -78.6382,
+      "total_jobs": 1841,
+      "company_count": 2,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 1841,
+          "companies": 2
+        }
+      ]
+    },
+    {
+      "hub_name": "Columbus",
+      "lat": 39.9612,
+      "lng": -82.9988,
+      "total_jobs": 1834,
+      "company_count": 2,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 1816,
+          "companies": 1
+        },
+        {
+          "sector": "Robotics",
+          "jobs": 18,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Fort Stockton",
+      "lat": 30.894,
+      "lng": -102.8793,
+      "total_jobs": 1816,
+      "company_count": 1,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 1816,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "New Hampshire",
+      "lat": 42.9956,
+      "lng": -71.4548,
+      "total_jobs": 1816,
+      "company_count": 1,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 1816,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Las Vegas",
+      "lat": 36.1699,
+      "lng": -115.1398,
+      "total_jobs": 1816,
+      "company_count": 1,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 1816,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "NYC",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "total_jobs": 1723,
+      "company_count": 20,
+      "sector_breakdown": [
+        {
+          "sector": "AI / ML",
+          "jobs": 732,
+          "companies": 5
+        },
+        {
+          "sector": "Defense Tech",
+          "jobs": 595,
+          "companies": 6
+        },
+        {
+          "sector": "Logistics",
+          "jobs": 134,
+          "companies": 1
+        },
+        {
+          "sector": "Robotics",
+          "jobs": 108,
+          "companies": 4
+        },
+        {
+          "sector": "Software",
+          "jobs": 86,
+          "companies": 1
+        },
+        {
+          "sector": "Hard Tech",
+          "jobs": 38,
+          "companies": 1
+        },
+        {
+          "sector": "Energy",
+          "jobs": 30,
+          "companies": 2
+        }
+      ]
+    },
+    {
+      "hub_name": "Remote / US-Wide",
+      "lat": null,
+      "lng": null,
+      "total_jobs": 1531,
+      "company_count": 26,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 521,
+          "companies": 7
+        },
+        {
+          "sector": "AI / ML",
+          "jobs": 395,
+          "companies": 5
+        },
+        {
+          "sector": "Energy",
+          "jobs": 141,
+          "companies": 3
+        },
+        {
+          "sector": "Space",
+          "jobs": 140,
+          "companies": 2
+        },
+        {
+          "sector": "Autonomy",
+          "jobs": 124,
+          "companies": 1
+        },
+        {
+          "sector": "Biotech",
+          "jobs": 81,
+          "companies": 2
+        },
+        {
+          "sector": "Hard Tech",
+          "jobs": 70,
+          "companies": 3
+        },
+        {
+          "sector": "Robotics",
+          "jobs": 55,
+          "companies": 2
+        },
+        {
+          "sector": "Aviation",
+          "jobs": 4,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "San Diego",
+      "lat": 32.7157,
+      "lng": -117.1611,
+      "total_jobs": 1150,
+      "company_count": 6,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 519,
+          "companies": 3
+        },
+        {
+          "sector": "Space",
+          "jobs": 263,
+          "companies": 1
+        },
+        {
+          "sector": "Autonomy",
+          "jobs": 195,
+          "companies": 1
+        },
+        {
+          "sector": "AI / ML",
+          "jobs": 173,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Phoenix / Tucson",
+      "lat": 33.4484,
+      "lng": -112.074,
+      "total_jobs": 637,
+      "company_count": 3,
+      "sector_breakdown": [
+        {
+          "sector": "Space",
+          "jobs": 263,
+          "companies": 1
+        },
+        {
+          "sector": "Robotics",
+          "jobs": 194,
+          "companies": 1
+        },
+        {
+          "sector": "Defense Tech",
+          "jobs": 180,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Houston",
+      "lat": 29.7604,
+      "lng": -95.3698,
+      "total_jobs": 585,
+      "company_count": 7,
+      "sector_breakdown": [
+        {
+          "sector": "Robotics",
+          "jobs": 241,
+          "companies": 2
+        },
+        {
+          "sector": "Space",
+          "jobs": 146,
+          "companies": 1
+        },
+        {
+          "sector": "Energy",
+          "jobs": 91,
+          "companies": 1
+        },
+        {
+          "sector": "Biotech",
+          "jobs": 70,
+          "companies": 1
+        },
+        {
+          "sector": "Manufacturing",
+          "jobs": 23,
+          "companies": 1
+        },
+        {
+          "sector": "Aviation",
+          "jobs": 14,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Dallas / Fort Worth",
+      "lat": 32.7767,
+      "lng": -96.797,
+      "total_jobs": 483,
+      "company_count": 4,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 253,
+          "companies": 1
+        },
+        {
+          "sector": "Logistics",
+          "jobs": 134,
+          "companies": 1
+        },
+        {
+          "sector": "Energy",
+          "jobs": 91,
+          "companies": 1
+        },
+        {
+          "sector": "Software",
+          "jobs": 5,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Chicago",
+      "lat": 41.8781,
+      "lng": -87.6298,
+      "total_jobs": 466,
+      "company_count": 3,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 241,
+          "companies": 1
+        },
+        {
+          "sector": "Logistics",
+          "jobs": 134,
+          "companies": 1
+        },
+        {
+          "sector": "Energy",
+          "jobs": 91,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Miami",
+      "lat": 25.7617,
+      "lng": -80.1918,
+      "total_jobs": 288,
+      "company_count": 3,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 241,
+          "companies": 1
+        },
+        {
+          "sector": "Manufacturing",
+          "jobs": 41,
+          "companies": 1
+        },
+        {
+          "sector": "Space",
+          "jobs": 6,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Ann Arbor / Detroit",
+      "lat": 42.2808,
+      "lng": -83.743,
+      "total_jobs": 265,
+      "company_count": 2,
+      "sector_breakdown": [
+        {
+          "sector": "Autonomy",
+          "jobs": 195,
+          "companies": 1
+        },
+        {
+          "sector": "Biotech",
+          "jobs": 70,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Pittsburgh",
+      "lat": 40.4406,
+      "lng": -79.9959,
+      "total_jobs": 151,
+      "company_count": 4,
+      "sector_breakdown": [
+        {
+          "sector": "Robotics",
+          "jobs": 94,
+          "companies": 2
+        },
+        {
+          "sector": "Defense Tech",
+          "jobs": 48,
+          "companies": 1
+        },
+        {
+          "sector": "Hard Tech",
+          "jobs": 9,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Salt Lake City",
+      "lat": 40.7608,
+      "lng": -111.891,
+      "total_jobs": 107,
+      "company_count": 3,
+      "sector_breakdown": [
+        {
+          "sector": "Software",
+          "jobs": 86,
+          "companies": 1
+        },
+        {
+          "sector": "Space",
+          "jobs": 13,
+          "companies": 1
+        },
+        {
+          "sector": "Logistics",
+          "jobs": 8,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Portland / Salem",
+      "lat": 45.5152,
+      "lng": -122.6784,
+      "total_jobs": 59,
+      "company_count": 2,
+      "sector_breakdown": [
+        {
+          "sector": "Robotics",
+          "jobs": 47,
+          "companies": 1
+        },
+        {
+          "sector": "AI / ML",
+          "jobs": 12,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Rochester",
+      "lat": 43.1566,
+      "lng": -77.6088,
+      "total_jobs": 58,
+      "company_count": 2,
+      "sector_breakdown": [
+        {
+          "sector": "Hard Tech",
+          "jobs": 40,
+          "companies": 1
+        },
+        {
+          "sector": "Robotics",
+          "jobs": 18,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Philadelphia",
+      "lat": 39.9526,
+      "lng": -75.1652,
+      "total_jobs": 47,
+      "company_count": 2,
+      "sector_breakdown": [
+        {
+          "sector": "Robotics",
+          "jobs": 47,
+          "companies": 2
+        }
+      ]
+    },
+    {
+      "hub_name": "Omaha",
+      "lat": 41.2565,
+      "lng": -95.9345,
+      "total_jobs": 37,
+      "company_count": 2,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 25,
+          "companies": 1
+        },
+        {
+          "sector": "AI / ML",
+          "jobs": 12,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Portsmouth",
+      "lat": 36.8354,
+      "lng": -76.2983,
+      "total_jobs": 8,
+      "company_count": 1,
+      "sector_breakdown": [
+        {
+          "sector": "Manufacturing",
+          "jobs": 8,
+          "companies": 1
+        }
+      ]
+    }
+  ],
+  "ats_breakdown": {
+    "ashby": {
+      "companies": 49,
+      "total_jobs": 1691
+    },
+    "lever": {
+      "companies": 30,
+      "total_jobs": 1408
+    },
+    "greenhouse": {
+      "companies": 56,
+      "total_jobs": 5381
+    },
+    "unknown": {
+      "companies": 4,
+      "total_jobs": 286
+    }
+  },
+  "meta": {
+    "registry_companies": 209,
+    "active_companies": 139,
+    "total_open_jobs": 8766,
+    "sectors_count": 13,
+    "us_hubs_count": 29
+  }
+}
