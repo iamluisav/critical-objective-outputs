@@ -1,8 +1,248 @@
 {
-  "generated_at": "2026-04-14T21:03:40.616616+00:00",
+  "generated_at": "2026-04-14T21:44:50.646996+00:00",
   "snapshot_date": "2026-04-14",
   "days_of_history": 1,
   "signals": [
+    {
+      "company_id": "helsing",
+      "company_name": "Helsing",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "medium",
+      "score": 40,
+      "title": "Helsing appeared in the feed with 108 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 108,
+      "previous_jobs": 0,
+      "delta": 108,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "rebuild-manufacturing",
+      "company_name": "Rebuild Manufacturing",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "medium",
+      "score": 40,
+      "title": "Rebuild Manufacturing appeared in the feed with 108 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 108,
+      "previous_jobs": 0,
+      "delta": 108,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "medium",
+      "score": 40,
+      "title": "SpaceX appeared in the feed with 1548 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 1548,
+      "previous_jobs": 0,
+      "delta": 1548,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "axon",
+      "company_name": "Axon",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "medium",
+      "score": 40,
+      "title": "Axon appeared in the feed with 519 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 519,
+      "previous_jobs": 0,
+      "delta": 519,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "grafana-labs",
+      "company_name": "Grafana Labs",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "medium",
+      "score": 40,
+      "title": "Grafana Labs appeared in the feed with 130 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 130,
+      "previous_jobs": 0,
+      "delta": 130,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "allen-control-systems",
+      "company_name": "Allen Control Systems",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "medium",
+      "score": 33,
+      "title": "Allen Control Systems appeared in the feed with 68 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 68,
+      "previous_jobs": 0,
+      "delta": 68,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "divergent-technologies",
+      "company_name": "Divergent Technologies",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "medium",
+      "score": 32,
+      "title": "Divergent Technologies appeared in the feed with 60 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 60,
+      "previous_jobs": 0,
+      "delta": 60,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "dataiku",
+      "company_name": "Dataiku",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "medium",
+      "score": 31,
+      "title": "Dataiku appeared in the feed with 56 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 56,
+      "previous_jobs": 0,
+      "delta": 56,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "neros-technologies",
+      "company_name": "Neros Technologies",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "medium",
+      "score": 30,
+      "title": "Neros Technologies appeared in the feed with 54 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 54,
+      "previous_jobs": 0,
+      "delta": 54,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "oklo",
+      "company_name": "Oklo",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "medium",
+      "score": 30,
+      "title": "Oklo appeared in the feed with 54 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 54,
+      "previous_jobs": 0,
+      "delta": 54,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "apptronik",
+      "company_name": "Apptronik",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "medium",
+      "score": 30,
+      "title": "Apptronik appeared in the feed with 52 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 52,
+      "previous_jobs": 0,
+      "delta": 52,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "lambda",
+      "company_name": "Lambda",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 29,
+      "title": "Lambda appeared in the feed with 47 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 47,
+      "previous_jobs": 0,
+      "delta": 47,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "freeform-future-corp",
+      "company_name": "Freeform Future Corp",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 29,
+      "title": "Freeform Future Corp appeared in the feed with 47 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 47,
+      "previous_jobs": 0,
+      "delta": 47,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "snorkel-ai",
+      "company_name": "Snorkel AI",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 28,
+      "title": "Snorkel AI appeared in the feed with 41 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 41,
+      "previous_jobs": 0,
+      "delta": 41,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "auterion",
+      "company_name": "Auterion",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 28,
+      "title": "Auterion appeared in the feed with 42 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 42,
+      "previous_jobs": 0,
+      "delta": 42,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "havoc-ai",
+      "company_name": "Havoc AI",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 27,
+      "title": "Havoc AI appeared in the feed with 39 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 39,
+      "previous_jobs": 0,
+      "delta": 39,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
     {
       "company_id": "overland-ai",
       "company_name": "Overland AI",
@@ -15,6 +255,501 @@
       "current_jobs": 0,
       "previous_jobs": 31,
       "delta": -31,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "may-mobility",
+      "company_name": "May Mobility",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 26,
+      "title": "May Mobility appeared in the feed with 32 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 32,
+      "previous_jobs": 0,
+      "delta": 32,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "swarm-aero",
+      "company_name": "Swarm Aero",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 26,
+      "title": "Swarm Aero appeared in the feed with 34 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 34,
+      "previous_jobs": 0,
+      "delta": 34,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "arx-robotics",
+      "company_name": "Arx Robotics",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 26,
+      "title": "Arx Robotics appeared in the feed with 31 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 31,
+      "previous_jobs": 0,
+      "delta": 31,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "dragos",
+      "company_name": "Dragos",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 25,
+      "title": "Dragos appeared in the feed with 27 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 27,
+      "previous_jobs": 0,
+      "delta": 27,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "antares",
+      "company_name": "Antares",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 25,
+      "title": "Antares appeared in the feed with 27 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 27,
+      "previous_jobs": 0,
+      "delta": 27,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "avathon",
+      "company_name": "Avathon",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 25,
+      "title": "Avathon appeared in the feed with 25 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 25,
+      "previous_jobs": 0,
+      "delta": 25,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "scout-ai",
+      "company_name": "Scout AI",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 24,
+      "title": "Scout AI appeared in the feed with 24 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 24,
+      "previous_jobs": 0,
+      "delta": 24,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "defense-unicorns",
+      "company_name": "Defense Unicorns",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 24,
+      "title": "Defense Unicorns appeared in the feed with 24 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 24,
+      "previous_jobs": 0,
+      "delta": 24,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "sandboxaq",
+      "company_name": "SandboxAQ",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 24,
+      "title": "SandboxAQ appeared in the feed with 21 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 21,
+      "previous_jobs": 0,
+      "delta": 21,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "poseidon-aero",
+      "company_name": "Poseidon Aero",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 23,
+      "title": "Poseidon Aero appeared in the feed with 16 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 16,
+      "previous_jobs": 0,
+      "delta": 16,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "strider",
+      "company_name": "Strider",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 23,
+      "title": "Strider appeared in the feed with 19 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 19,
+      "previous_jobs": 0,
+      "delta": 19,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "leolabs",
+      "company_name": "LeoLabs",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 23,
+      "title": "LeoLabs appeared in the feed with 18 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 18,
+      "previous_jobs": 0,
+      "delta": 18,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "vatn-systems",
+      "company_name": "Vatn Systems",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 23,
+      "title": "Vatn Systems appeared in the feed with 17 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 17,
+      "previous_jobs": 0,
+      "delta": 17,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "amca",
+      "company_name": "AMCA",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 22,
+      "title": "AMCA appeared in the feed with 14 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 14,
+      "previous_jobs": 0,
+      "delta": 14,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "boston-materials",
+      "company_name": "Boston Materials",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 22,
+      "title": "Boston Materials appeared in the feed with 10 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 10,
+      "previous_jobs": 0,
+      "delta": 10,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "reveal-technology",
+      "company_name": "Reveal Technology",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 22,
+      "title": "Reveal Technology appeared in the feed with 11 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 11,
+      "previous_jobs": 0,
+      "delta": 11,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "method-security",
+      "company_name": "Method Security",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 22,
+      "title": "Method Security appeared in the feed with 12 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 12,
+      "previous_jobs": 0,
+      "delta": 12,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "reality-defender",
+      "company_name": "Reality Defender",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 22,
+      "title": "Reality Defender appeared in the feed with 12 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 12,
+      "previous_jobs": 0,
+      "delta": 12,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "salient-motion",
+      "company_name": "Salient Motion",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 22,
+      "title": "Salient Motion appeared in the feed with 10 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 10,
+      "previous_jobs": 0,
+      "delta": 10,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "world-view-enterprises",
+      "company_name": "World View Enterprises",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 22,
+      "title": "World View Enterprises appeared in the feed with 13 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 13,
+      "previous_jobs": 0,
+      "delta": 13,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "regent-craft",
+      "company_name": "Regent Craft",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 22,
+      "title": "Regent Craft appeared in the feed with 10 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 10,
+      "previous_jobs": 0,
+      "delta": 10,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "skyryse",
+      "company_name": "Skyryse",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 22,
+      "title": "Skyryse appeared in the feed with 10 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 10,
+      "previous_jobs": 0,
+      "delta": 10,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "obviant",
+      "company_name": "Obviant",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 22,
+      "title": "Obviant appeared in the feed with 12 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 12,
+      "previous_jobs": 0,
+      "delta": 12,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "rune-tech",
+      "company_name": "Rune Tech",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 22,
+      "title": "Rune Tech appeared in the feed with 12 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 12,
+      "previous_jobs": 0,
+      "delta": 12,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "privateer",
+      "company_name": "Privateer",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 21,
+      "title": "Privateer appeared in the feed with 6 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 6,
+      "previous_jobs": 0,
+      "delta": 6,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "yubico",
+      "company_name": "Yubico",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 21,
+      "title": "Yubico appeared in the feed with 8 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 8,
+      "previous_jobs": 0,
+      "delta": 8,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "percipient",
+      "company_name": "Percipient",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 21,
+      "title": "Percipient appeared in the feed with 5 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 5,
+      "previous_jobs": 0,
+      "delta": 5,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "wraithwatch",
+      "company_name": "WraithWatch",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 21,
+      "title": "WraithWatch appeared in the feed with 8 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 8,
+      "previous_jobs": 0,
+      "delta": 8,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "dirac",
+      "company_name": "Dirac",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 21,
+      "title": "Dirac appeared in the feed with 5 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 5,
+      "previous_jobs": 0,
+      "delta": 5,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "wirescreen",
+      "company_name": "Wirescreen",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 21,
+      "title": "Wirescreen appeared in the feed with 7 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 7,
+      "previous_jobs": 0,
+      "delta": 7,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "hgen",
+      "company_name": "Hgen",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 21,
+      "title": "Hgen appeared in the feed with 6 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 6,
+      "previous_jobs": 0,
+      "delta": 6,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "opaque-systems",
+      "company_name": "Opaque Systems",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 21,
+      "title": "Opaque Systems appeared in the feed with 7 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 7,
+      "previous_jobs": 0,
+      "delta": 7,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "pilgrim",
+      "company_name": "Pilgrim",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 21,
+      "title": "Pilgrim appeared in the feed with 9 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 9,
+      "previous_jobs": 0,
+      "delta": 9,
       "delta_pct": null,
       "date": "2026-04-14"
     },
@@ -34,17 +769,92 @@
       "date": "2026-04-14"
     },
     {
-      "company_id": "bedrock-ocean",
-      "company_name": "Bedrock Ocean",
+      "company_id": "hypori",
+      "company_name": "Hypori",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 21,
+      "title": "Hypori appeared in the feed with 5 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 5,
+      "previous_jobs": 0,
+      "delta": 5,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "danti-ai",
+      "company_name": "Danti AI",
       "sector": "Other",
       "signal_type": "new_company_appeared",
       "magnitude": "low",
       "score": 20,
-      "title": "Bedrock Ocean appeared in the feed with 1 open roles",
+      "title": "Danti AI appeared in the feed with 1 open roles",
       "detail": "New company detected. Sectors: .",
       "current_jobs": 1,
       "previous_jobs": 0,
       "delta": 1,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "resilience",
+      "company_name": "Resilience",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 20,
+      "title": "Resilience appeared in the feed with 4 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 4,
+      "previous_jobs": 0,
+      "delta": 4,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "liquid-instruments",
+      "company_name": "Liquid Instruments",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 20,
+      "title": "Liquid Instruments appeared in the feed with 4 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 4,
+      "previous_jobs": 0,
+      "delta": 4,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "compound-eye",
+      "company_name": "Compound Eye",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 20,
+      "title": "Compound Eye appeared in the feed with 3 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 3,
+      "previous_jobs": 0,
+      "delta": 3,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "durin",
+      "company_name": "Durin",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 20,
+      "title": "Durin appeared in the feed with 3 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 3,
+      "previous_jobs": 0,
+      "delta": 3,
       "delta_pct": null,
       "date": "2026-04-14"
     },
@@ -64,31 +874,151 @@
       "date": "2026-04-14"
     },
     {
-      "company_id": "make-rain",
-      "company_name": "Make Rain",
-      "sector": "Logistics",
-      "signal_type": "new_department_appeared",
+      "company_id": "andesite",
+      "company_name": "Andesite",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
       "magnitude": "low",
-      "score": 10,
-      "title": "Make Rain hiring in 1 new department",
-      "detail": "New: Field Operations.",
-      "current_jobs": 9,
-      "previous_jobs": 8,
+      "score": 20,
+      "title": "Andesite appeared in the feed with 2 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 2,
+      "previous_jobs": 0,
+      "delta": 2,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "bedrock-ocean",
+      "company_name": "Bedrock Ocean",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 20,
+      "title": "Bedrock Ocean appeared in the feed with 1 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 1,
+      "previous_jobs": 0,
       "delta": 1,
       "delta_pct": null,
       "date": "2026-04-14"
     },
     {
-      "company_id": "second-front-systems",
-      "company_name": "Second Front Systems",
-      "sector": "Defense Tech",
-      "signal_type": "new_department_appeared",
+      "company_id": "pison",
+      "company_name": "Pison",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
       "magnitude": "low",
-      "score": 10,
-      "title": "Second Front Systems hiring in 2 new departments",
-      "detail": "New: Marketing, Operations.",
-      "current_jobs": 9,
-      "previous_jobs": 5,
+      "score": 20,
+      "title": "Pison appeared in the feed with 1 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 1,
+      "previous_jobs": 0,
+      "delta": 1,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "crgo",
+      "company_name": "CRGO",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 20,
+      "title": "CRGO appeared in the feed with 4 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 4,
+      "previous_jobs": 0,
+      "delta": 4,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "nexla",
+      "company_name": "Nexla",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 20,
+      "title": "Nexla appeared in the feed with 3 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 3,
+      "previous_jobs": 0,
+      "delta": 3,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "greynoise-intelligence",
+      "company_name": "GreyNoise Intelligence",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 20,
+      "title": "GreyNoise Intelligence appeared in the feed with 1 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 1,
+      "previous_jobs": 0,
+      "delta": 1,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "defcon",
+      "company_name": "Defcon",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 20,
+      "title": "Defcon appeared in the feed with 4 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 4,
+      "previous_jobs": 0,
+      "delta": 4,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "distributed-spectrum",
+      "company_name": "Distributed Spectrum",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 20,
+      "title": "Distributed Spectrum appeared in the feed with 4 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 4,
+      "previous_jobs": 0,
+      "delta": 4,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "ethos-systems",
+      "company_name": "Ethos Systems",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 20,
+      "title": "Ethos Systems appeared in the feed with 2 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 2,
+      "previous_jobs": 0,
+      "delta": 2,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "valarian",
+      "company_name": "Valarian",
+      "sector": "Other",
+      "signal_type": "new_company_appeared",
+      "magnitude": "low",
+      "score": 20,
+      "title": "Valarian appeared in the feed with 2 open roles",
+      "detail": "New company detected. Sectors: .",
+      "current_jobs": 2,
+      "previous_jobs": 0,
       "delta": 2,
       "delta_pct": null,
       "date": "2026-04-14"
@@ -102,23 +1032,8 @@
       "score": 10,
       "title": "Replit hiring in 1 new department",
       "detail": "New: Brand & Creative.",
-      "current_jobs": 82,
+      "current_jobs": 81,
       "previous_jobs": 86,
-      "delta": 1,
-      "delta_pct": null,
-      "date": "2026-04-14"
-    },
-    {
-      "company_id": "mariana-minerals",
-      "company_name": "Mariana Minerals",
-      "sector": "Biotech",
-      "signal_type": "new_department_appeared",
-      "magnitude": "low",
-      "score": 10,
-      "title": "Mariana Minerals hiring in 1 new department",
-      "detail": "New: Special Operations.",
-      "current_jobs": 77,
-      "previous_jobs": 70,
       "delta": 1,
       "delta_pct": null,
       "date": "2026-04-14"
@@ -139,21 +1054,6 @@
       "date": "2026-04-14"
     },
     {
-      "company_id": "turion-space",
-      "company_name": "Turion Space",
-      "sector": "Space",
-      "signal_type": "new_department_appeared",
-      "magnitude": "low",
-      "score": 10,
-      "title": "Turion Space hiring in 1 new department",
-      "detail": "New: Cyber Security.",
-      "current_jobs": 25,
-      "previous_jobs": 26,
-      "delta": 1,
-      "delta_pct": null,
-      "date": "2026-04-14"
-    },
-    {
       "company_id": "gridware",
       "company_name": "Gridware",
       "sector": "Energy",
@@ -169,6 +1069,111 @@
       "date": "2026-04-14"
     },
     {
+      "company_id": "make-rain",
+      "company_name": "Make Rain",
+      "sector": "Logistics",
+      "signal_type": "new_department_appeared",
+      "magnitude": "low",
+      "score": 10,
+      "title": "Make Rain hiring in 1 new department",
+      "detail": "New: Field Operations.",
+      "current_jobs": 9,
+      "previous_jobs": 8,
+      "delta": 1,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "turion-space",
+      "company_name": "Turion Space",
+      "sector": "Space",
+      "signal_type": "new_department_appeared",
+      "magnitude": "low",
+      "score": 10,
+      "title": "Turion Space hiring in 1 new department",
+      "detail": "New: Cyber Security.",
+      "current_jobs": 25,
+      "previous_jobs": 26,
+      "delta": 1,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "second-front-systems",
+      "company_name": "Second Front Systems",
+      "sector": "Defense Tech",
+      "signal_type": "new_department_appeared",
+      "magnitude": "low",
+      "score": 10,
+      "title": "Second Front Systems hiring in 2 new departments",
+      "detail": "New: Marketing, Operations.",
+      "current_jobs": 9,
+      "previous_jobs": 5,
+      "delta": 2,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "mariana-minerals",
+      "company_name": "Mariana Minerals",
+      "sector": "Biotech",
+      "signal_type": "new_department_appeared",
+      "magnitude": "low",
+      "score": 10,
+      "title": "Mariana Minerals hiring in 1 new department",
+      "detail": "New: Special Operations.",
+      "current_jobs": 77,
+      "previous_jobs": 70,
+      "delta": 1,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "hermeus",
+      "company_name": "Hermeus",
+      "sector": "Aviation",
+      "signal_type": "new_department_appeared",
+      "magnitude": "low",
+      "score": 10,
+      "title": "Hermeus hiring in 1 new department",
+      "detail": "New: Supply Chain.",
+      "current_jobs": 114,
+      "previous_jobs": 110,
+      "delta": 1,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "echodyne",
+      "company_name": "Echodyne",
+      "sector": "Hard Tech",
+      "signal_type": "new_location_appeared",
+      "magnitude": "low",
+      "score": 5,
+      "title": "Echodyne hiring in 1 new location",
+      "detail": "New: Remote - Australia.",
+      "current_jobs": 36,
+      "previous_jobs": 33,
+      "delta": 1,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
+      "company_id": "onebrief",
+      "company_name": "Onebrief",
+      "sector": "Defense Tech",
+      "signal_type": "new_location_appeared",
+      "magnitude": "low",
+      "score": 5,
+      "title": "Onebrief hiring in 3 new locations",
+      "detail": "New: Fayetteville, North Carolina, United States, Fort Jackson, South Carolina, United States, Rome, Italy, Italy.",
+      "current_jobs": 25,
+      "previous_jobs": 25,
+      "delta": 3,
+      "delta_pct": null,
+      "date": "2026-04-14"
+    },
+    {
       "company_id": "planet-labs",
       "company_name": "Planet Labs",
       "sector": "Space",
@@ -177,7 +1182,7 @@
       "score": 5,
       "title": "Planet Labs hiring in 1 new location",
       "detail": "New: US, Remote.",
-      "current_jobs": 98,
+      "current_jobs": 97,
       "previous_jobs": 114,
       "delta": 1,
       "delta_pct": null,
@@ -199,46 +1204,46 @@
       "date": "2026-04-14"
     },
     {
-      "company_id": "ursa-major",
-      "company_name": "Ursa Major",
-      "sector": "Space",
+      "company_id": "zipline",
+      "company_name": "Zipline",
+      "sector": "Robotics",
       "signal_type": "new_location_appeared",
       "magnitude": "low",
       "score": 5,
-      "title": "Ursa Major hiring in 1 new location",
-      "detail": "New: Berthoud, Colorado; Washington, D.C.; Youngstown, Ohio.",
-      "current_jobs": 44,
-      "previous_jobs": 44,
+      "title": "Zipline hiring in 1 new location",
+      "detail": "New: Bentonville, Arkansas, USA.",
+      "current_jobs": 190,
+      "previous_jobs": 194,
       "delta": 1,
       "delta_pct": null,
       "date": "2026-04-14"
     },
     {
-      "company_id": "tenstorrent",
-      "company_name": "Tenstorrent",
+      "company_id": "anthropic",
+      "company_name": "Anthropic",
       "sector": "AI / ML",
       "signal_type": "new_location_appeared",
       "magnitude": "low",
       "score": 5,
-      "title": "Tenstorrent hiring in 1 new location",
-      "detail": "New: Fort Collins, Colorado, United States.",
-      "current_jobs": 109,
-      "previous_jobs": 107,
-      "delta": 1,
+      "title": "Anthropic hiring in 2 new locations",
+      "detail": "New: Boston, MA; New York City, NY; San Francisco, CA; Seattle, WA, London, UK; San Francisco, CA | New York City, NY.",
+      "current_jobs": 428,
+      "previous_jobs": 428,
+      "delta": 2,
       "delta_pct": null,
       "date": "2026-04-14"
     },
     {
-      "company_id": "echodyne",
-      "company_name": "Echodyne",
-      "sector": "Hard Tech",
+      "company_id": "amp-robotics",
+      "company_name": "AMP Robotics",
+      "sector": "Manufacturing",
       "signal_type": "new_location_appeared",
       "magnitude": "low",
       "score": 5,
-      "title": "Echodyne hiring in 1 new location",
-      "detail": "New: Remote - Australia.",
-      "current_jobs": 36,
-      "previous_jobs": 33,
+      "title": "AMP Robotics hiring in 1 new location",
+      "detail": "New: Remote, United States.",
+      "current_jobs": 11,
+      "previous_jobs": 8,
       "delta": 1,
       "delta_pct": null,
       "date": "2026-04-14"
@@ -259,16 +1264,16 @@
       "date": "2026-04-14"
     },
     {
-      "company_id": "amp-robotics",
-      "company_name": "AMP Robotics",
-      "sector": "Manufacturing",
+      "company_id": "ursa-major",
+      "company_name": "Ursa Major",
+      "sector": "Space",
       "signal_type": "new_location_appeared",
       "magnitude": "low",
       "score": 5,
-      "title": "AMP Robotics hiring in 1 new location",
-      "detail": "New: Remote, United States.",
-      "current_jobs": 11,
-      "previous_jobs": 8,
+      "title": "Ursa Major hiring in 1 new location",
+      "detail": "New: Berthoud, Colorado; Washington, D.C.; Youngstown, Ohio.",
+      "current_jobs": 43,
+      "previous_jobs": 44,
       "delta": 1,
       "delta_pct": null,
       "date": "2026-04-14"
@@ -282,39 +1287,24 @@
       "score": 5,
       "title": "Anduril hiring in 2 new locations",
       "detail": "New: Bellevue, Washington, United States; Seattle, Washington, United States, Herndon, Virginia, United States.",
-      "current_jobs": 1822,
+      "current_jobs": 1826,
       "previous_jobs": 1816,
       "delta": 2,
       "delta_pct": null,
       "date": "2026-04-14"
     },
     {
-      "company_id": "onebrief",
-      "company_name": "Onebrief",
-      "sector": "Defense Tech",
-      "signal_type": "new_location_appeared",
-      "magnitude": "low",
-      "score": 5,
-      "title": "Onebrief hiring in 3 new locations",
-      "detail": "New: Fayetteville, North Carolina, United States, Fort Jackson, South Carolina, United States, Rome, Italy, Italy.",
-      "current_jobs": 26,
-      "previous_jobs": 25,
-      "delta": 3,
-      "delta_pct": null,
-      "date": "2026-04-14"
-    },
-    {
-      "company_id": "anthropic",
-      "company_name": "Anthropic",
+      "company_id": "tenstorrent",
+      "company_name": "Tenstorrent",
       "sector": "AI / ML",
       "signal_type": "new_location_appeared",
       "magnitude": "low",
       "score": 5,
-      "title": "Anthropic hiring in 3 new locations",
-      "detail": "New: Boston, MA; New York City, NY; San Francisco, CA; Seattle, WA, London, UK; San Francisco, CA | New York City, NY, Singapore.",
-      "current_jobs": 428,
-      "previous_jobs": 428,
-      "delta": 3,
+      "title": "Tenstorrent hiring in 1 new location",
+      "detail": "New: Fort Collins, Colorado, United States.",
+      "current_jobs": 109,
+      "previous_jobs": 107,
+      "delta": 1,
       "delta_pct": null,
       "date": "2026-04-14"
     }
@@ -323,17 +1313,17 @@
     {
       "sector": "Defense Tech",
       "companies": 23,
-      "total_jobs": 3127,
-      "delta_7d": 26,
-      "delta_pct_7d": 0.8,
+      "total_jobs": 3128,
+      "delta_7d": 27,
+      "delta_pct_7d": 0.9,
       "direction": "up"
     },
     {
       "sector": "Space",
       "companies": 21,
-      "total_jobs": 1815,
-      "delta_7d": -6,
-      "delta_pct_7d": -0.3,
+      "total_jobs": 1810,
+      "delta_7d": -11,
+      "delta_pct_7d": -0.6,
       "direction": "down"
     },
     {
@@ -347,17 +1337,17 @@
     {
       "sector": "Robotics",
       "companies": 15,
-      "total_jobs": 547,
-      "delta_7d": -12,
-      "delta_pct_7d": -2.1,
+      "total_jobs": 551,
+      "delta_7d": -8,
+      "delta_pct_7d": -1.4,
       "direction": "down"
     },
     {
       "sector": "Energy",
       "companies": 18,
-      "total_jobs": 531,
-      "delta_7d": -3,
-      "delta_pct_7d": -0.6,
+      "total_jobs": 529,
+      "delta_7d": -5,
+      "delta_pct_7d": -0.9,
       "direction": "down"
     },
     {
@@ -379,9 +1369,9 @@
     {
       "sector": "Aviation",
       "companies": 9,
-      "total_jobs": 408,
-      "delta_7d": -7,
-      "delta_pct_7d": -1.7,
+      "total_jobs": 410,
+      "delta_7d": -5,
+      "delta_pct_7d": -1.2,
       "direction": "down"
     },
     {
@@ -411,9 +1401,9 @@
     {
       "sector": "Software",
       "companies": 4,
-      "total_jobs": 95,
-      "delta_7d": -6,
-      "delta_pct_7d": -5.9,
+      "total_jobs": 94,
+      "delta_7d": -7,
+      "delta_pct_7d": -6.9,
       "direction": "down"
     },
     {
@@ -438,15 +1428,37 @@
       "company_id": "anduril",
       "company_name": "Anduril",
       "sector": "Defense Tech",
-      "current_jobs": 1822,
-      "delta_7d": 6,
-      "delta_pct_7d": 0.3,
+      "current_jobs": 1826,
+      "delta_7d": 10,
+      "delta_pct_7d": 0.6,
       "ats": "greenhouse",
       "sparkline": [
         1816,
         1822
       ],
       "rank": 1
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "sector": "Other",
+      "current_jobs": 1548,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 2
+    },
+    {
+      "company_id": "axon",
+      "company_name": "Axon",
+      "sector": "Other",
+      "current_jobs": 519,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 3
     },
     {
       "company_id": "anthropic",
@@ -460,7 +1472,7 @@
         428,
         428
       ],
-      "rank": 2
+      "rank": 4
     },
     {
       "company_id": "cohere",
@@ -474,7 +1486,7 @@
         396,
         407
       ],
-      "rank": 3
+      "rank": 5
     },
     {
       "company_id": "ramp",
@@ -488,7 +1500,7 @@
         332,
         331
       ],
-      "rank": 4
+      "rank": 6
     },
     {
       "company_id": "relativity-space",
@@ -502,7 +1514,7 @@
         299,
         294
       ],
-      "rank": 5
+      "rank": 7
     },
     {
       "company_id": "rocket-lab",
@@ -516,7 +1528,7 @@
         263,
         272
       ],
-      "rank": 6
+      "rank": 8
     },
     {
       "company_id": "saronic",
@@ -528,9 +1540,9 @@
       "ats": "lever",
       "sparkline": [
         263,
-        270
+        269
       ],
-      "rank": 7
+      "rank": 9
     },
     {
       "company_id": "shield-ai",
@@ -544,7 +1556,7 @@
         253,
         254
       ],
-      "rank": 8
+      "rank": 10
     },
     {
       "company_id": "palantir",
@@ -558,21 +1570,21 @@
         241,
         248
       ],
-      "rank": 9
+      "rank": 11
     },
     {
       "company_id": "archer-aviation",
       "company_name": "Archer Aviation",
       "sector": "Aviation",
-      "current_jobs": 216,
-      "delta_7d": -9,
-      "delta_pct_7d": -4.0,
+      "current_jobs": 217,
+      "delta_7d": -8,
+      "delta_pct_7d": -3.6,
       "ats": "greenhouse",
       "sparkline": [
         225,
         216
       ],
-      "rank": 10
+      "rank": 12
     },
     {
       "company_id": "applied-intuition",
@@ -586,7 +1598,21 @@
         195,
         195
       ],
-      "rank": 11
+      "rank": 13
+    },
+    {
+      "company_id": "zipline",
+      "company_name": "Zipline",
+      "sector": "Robotics",
+      "current_jobs": 190,
+      "delta_7d": -4,
+      "delta_pct_7d": -2.1,
+      "ats": "greenhouse",
+      "sparkline": [
+        194,
+        187
+      ],
+      "rank": 14
     },
     {
       "company_id": "cesiumastro",
@@ -600,21 +1626,7 @@
         188,
         189
       ],
-      "rank": 12
-    },
-    {
-      "company_id": "zipline",
-      "company_name": "Zipline",
-      "sector": "Robotics",
-      "current_jobs": 187,
-      "delta_7d": -7,
-      "delta_pct_7d": -3.6,
-      "ats": "greenhouse",
-      "sparkline": [
-        194,
-        187
-      ],
-      "rank": 13
+      "rank": 15
     },
     {
       "company_id": "hadrian",
@@ -628,7 +1640,7 @@
         180,
         178
       ],
-      "rank": 14
+      "rank": 16
     },
     {
       "company_id": "scale-ai",
@@ -642,7 +1654,7 @@
         173,
         170
       ],
-      "rank": 15
+      "rank": 17
     },
     {
       "company_id": "sierra",
@@ -656,7 +1668,7 @@
         161,
         161
       ],
-      "rank": 16
+      "rank": 18
     },
     {
       "company_id": "true-anomaly",
@@ -670,7 +1682,7 @@
         158,
         161
       ],
-      "rank": 17
+      "rank": 19
     },
     {
       "company_id": "vast-space",
@@ -684,7 +1696,7 @@
         146,
         146
       ],
-      "rank": 18
+      "rank": 20
     },
     {
       "company_id": "flexport",
@@ -698,7 +1710,18 @@
         134,
         133
       ],
-      "rank": 19
+      "rank": 21
+    },
+    {
+      "company_id": "grafana-labs",
+      "company_name": "Grafana Labs",
+      "sector": "Other",
+      "current_jobs": 130,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 22
     },
     {
       "company_id": "helion-energy",
@@ -712,7 +1735,7 @@
         130,
         130
       ],
-      "rank": 20
+      "rank": 23
     },
     {
       "company_id": "skydio",
@@ -726,7 +1749,7 @@
         124,
         123
       ],
-      "rank": 21
+      "rank": 24
     },
     {
       "company_id": "astranis",
@@ -740,21 +1763,21 @@
         126,
         122
       ],
-      "rank": 22
+      "rank": 25
     },
     {
       "company_id": "hermeus",
       "company_name": "Hermeus",
       "sector": "Aviation",
-      "current_jobs": 113,
-      "delta_7d": 3,
-      "delta_pct_7d": 2.7,
+      "current_jobs": 114,
+      "delta_7d": 4,
+      "delta_pct_7d": 3.6,
       "ats": "lever",
       "sparkline": [
         110,
         113
       ],
-      "rank": 23
+      "rank": 26
     },
     {
       "company_id": "tenstorrent",
@@ -768,7 +1791,29 @@
         107,
         109
       ],
-      "rank": 24
+      "rank": 27
+    },
+    {
+      "company_id": "helsing",
+      "company_name": "Helsing",
+      "sector": "Other",
+      "current_jobs": 108,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 28
+    },
+    {
+      "company_id": "rebuild-manufacturing",
+      "company_name": "Rebuild Manufacturing",
+      "sector": "Other",
+      "current_jobs": 108,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 29
     },
     {
       "company_id": "figure-ai",
@@ -782,21 +1827,21 @@
         101,
         101
       ],
-      "rank": 25
+      "rank": 30
     },
     {
       "company_id": "planet-labs",
       "company_name": "Planet Labs",
       "sector": "Space",
-      "current_jobs": 98,
-      "delta_7d": -16,
-      "delta_pct_7d": -14.0,
+      "current_jobs": 97,
+      "delta_7d": -17,
+      "delta_pct_7d": -14.9,
       "ats": "greenhouse",
       "sparkline": [
         114,
         98
       ],
-      "rank": 26
+      "rank": 31
     },
     {
       "company_id": "cerebras-systems",
@@ -810,7 +1855,7 @@
         96,
         96
       ],
-      "rank": 27
+      "rank": 32
     },
     {
       "company_id": "nuro",
@@ -824,7 +1869,7 @@
         96,
         94
       ],
-      "rank": 28
+      "rank": 33
     },
     {
       "company_id": "base-power",
@@ -838,7 +1883,7 @@
         91,
         92
       ],
-      "rank": 29
+      "rank": 34
     },
     {
       "company_id": "cognition",
@@ -852,7 +1897,7 @@
         88,
         88
       ],
-      "rank": 30
+      "rank": 35
     },
     {
       "company_id": "apex-space",
@@ -866,21 +1911,21 @@
         84,
         86
       ],
-      "rank": 31
+      "rank": 36
     },
     {
       "company_id": "replit",
       "company_name": "Replit",
       "sector": "Software",
-      "current_jobs": 82,
-      "delta_7d": -4,
-      "delta_pct_7d": -4.7,
+      "current_jobs": 81,
+      "delta_7d": -5,
+      "delta_pct_7d": -5.8,
       "ats": "ashby",
       "sparkline": [
         86,
         82
       ],
-      "rank": 32
+      "rank": 37
     },
     {
       "company_id": "mariana-minerals",
@@ -894,7 +1939,7 @@
         70,
         77
       ],
-      "rank": 33
+      "rank": 38
     },
     {
       "company_id": "mach-industries",
@@ -908,7 +1953,18 @@
         71,
         70
       ],
-      "rank": 34
+      "rank": 39
+    },
+    {
+      "company_id": "allen-control-systems",
+      "company_name": "Allen Control Systems",
+      "sector": "Other",
+      "current_jobs": 68,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": null,
+      "rank": 40
     },
     {
       "company_id": "varda-space",
@@ -922,7 +1978,7 @@
         67,
         68
       ],
-      "rank": 35
+      "rank": 41
     },
     {
       "company_id": "northwood-space",
@@ -936,21 +1992,76 @@
         67,
         67
       ],
-      "rank": 36
+      "rank": 42
+    },
+    {
+      "company_id": "divergent-technologies",
+      "company_name": "Divergent Technologies",
+      "sector": "Other",
+      "current_jobs": 60,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 43
+    },
+    {
+      "company_id": "dataiku",
+      "company_name": "Dataiku",
+      "sector": "Other",
+      "current_jobs": 56,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 44
+    },
+    {
+      "company_id": "neros-technologies",
+      "company_name": "Neros Technologies",
+      "sector": "Other",
+      "current_jobs": 54,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 45
+    },
+    {
+      "company_id": "oklo",
+      "company_name": "Oklo",
+      "sector": "Other",
+      "current_jobs": 54,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 46
     },
     {
       "company_id": "sardine",
       "company_name": "Sardine",
       "sector": "Defense Tech",
-      "current_jobs": 55,
-      "delta_7d": -1,
-      "delta_pct_7d": -1.8,
+      "current_jobs": 53,
+      "delta_7d": -3,
+      "delta_pct_7d": -5.4,
       "ats": "unknown",
       "sparkline": [
         56,
         55
       ],
-      "rank": 37
+      "rank": 47
+    },
+    {
+      "company_id": "apptronik",
+      "company_name": "Apptronik",
+      "sector": "Other",
+      "current_jobs": 52,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 48
     },
     {
       "company_id": "govini",
@@ -964,21 +2075,43 @@
         48,
         52
       ],
-      "rank": 38
+      "rank": 49
     },
     {
       "company_id": "agility-robotics",
       "company_name": "Agility Robotics",
       "sector": "Robotics",
-      "current_jobs": 46,
-      "delta_7d": -1,
-      "delta_pct_7d": -2.1,
+      "current_jobs": 47,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
       "ats": "greenhouse",
       "sparkline": [
         47,
         46
       ],
-      "rank": 39
+      "rank": 50
+    },
+    {
+      "company_id": "freeform-future-corp",
+      "company_name": "Freeform Future Corp",
+      "sector": "Other",
+      "current_jobs": 47,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 51
+    },
+    {
+      "company_id": "lambda",
+      "company_name": "Lambda",
+      "sector": "Other",
+      "current_jobs": 47,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": null,
+      "rank": 52
     },
     {
       "company_id": "gecko-robotics",
@@ -992,21 +2125,7 @@
         47,
         45
       ],
-      "rank": 40
-    },
-    {
-      "company_id": "ursa-major",
-      "company_name": "Ursa Major",
-      "sector": "Space",
-      "current_jobs": 44,
-      "delta_7d": 0,
-      "delta_pct_7d": 0.0,
-      "ats": "greenhouse",
-      "sparkline": [
-        44,
-        44
-      ],
-      "rank": 41
+      "rank": 53
     },
     {
       "company_id": "icon",
@@ -1020,7 +2139,32 @@
         41,
         43
       ],
-      "rank": 42
+      "rank": 54
+    },
+    {
+      "company_id": "ursa-major",
+      "company_name": "Ursa Major",
+      "sector": "Space",
+      "current_jobs": 43,
+      "delta_7d": -1,
+      "delta_pct_7d": -2.3,
+      "ats": "greenhouse",
+      "sparkline": [
+        44,
+        44
+      ],
+      "rank": 55
+    },
+    {
+      "company_id": "auterion",
+      "company_name": "Auterion",
+      "sector": "Other",
+      "current_jobs": 42,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 56
     },
     {
       "company_id": "commonwealth-fusion",
@@ -1034,21 +2178,18 @@
         46,
         42
       ],
-      "rank": 43
+      "rank": 57
     },
     {
-      "company_id": "xona-space-systems",
-      "company_name": "Xona Space Systems",
-      "sector": "Space",
-      "current_jobs": 42,
-      "delta_7d": 1,
-      "delta_pct_7d": 2.4,
-      "ats": "ashby",
-      "sparkline": [
-        41,
-        42
-      ],
-      "rank": 44
+      "company_id": "snorkel-ai",
+      "company_name": "Snorkel AI",
+      "sector": "Other",
+      "current_jobs": 41,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 58
     },
     {
       "company_id": "proxima-fusion",
@@ -1062,7 +2203,7 @@
         40,
         40
       ],
-      "rank": 45
+      "rank": 59
     },
     {
       "company_id": "standard-bots",
@@ -1076,21 +2217,32 @@
         41,
         40
       ],
-      "rank": 46
+      "rank": 60
     },
     {
-      "company_id": "heron-power",
-      "company_name": "Heron Power",
-      "sector": "Energy",
+      "company_id": "havoc-ai",
+      "company_name": "Havoc AI",
+      "sector": "Other",
       "current_jobs": 39,
-      "delta_7d": 1,
-      "delta_pct_7d": 2.6,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": null,
+      "rank": 61
+    },
+    {
+      "company_id": "xona-space-systems",
+      "company_name": "Xona Space Systems",
+      "sector": "Space",
+      "current_jobs": 39,
+      "delta_7d": -2,
+      "delta_pct_7d": -4.9,
       "ats": "ashby",
       "sparkline": [
-        38,
-        39
+        41,
+        42
       ],
-      "rank": 47
+      "rank": 62
     },
     {
       "company_id": "aeva",
@@ -1104,7 +2256,7 @@
         40,
         38
       ],
-      "rank": 48
+      "rank": 63
     },
     {
       "company_id": "muon-space",
@@ -1118,21 +2270,35 @@
         38,
         38
       ],
-      "rank": 49
+      "rank": 64
     },
     {
       "company_id": "pacific-fusion",
       "company_name": "Pacific Fusion",
       "sector": "Energy",
-      "current_jobs": 37,
-      "delta_7d": 1,
-      "delta_pct_7d": 2.8,
+      "current_jobs": 38,
+      "delta_7d": 2,
+      "delta_pct_7d": 5.6,
       "ats": "greenhouse",
       "sparkline": [
         36,
         37
       ],
-      "rank": 50
+      "rank": 65
+    },
+    {
+      "company_id": "campus",
+      "company_name": "Campus",
+      "sector": "Hard Tech",
+      "current_jobs": 36,
+      "delta_7d": -2,
+      "delta_pct_7d": -5.3,
+      "ats": "unknown",
+      "sparkline": [
+        38,
+        35
+      ],
+      "rank": 66
     },
     {
       "company_id": "echodyne",
@@ -1146,21 +2312,21 @@
         33,
         36
       ],
-      "rank": 51
+      "rank": 67
     },
     {
-      "company_id": "campus",
-      "company_name": "Campus",
-      "sector": "Hard Tech",
-      "current_jobs": 35,
-      "delta_7d": -3,
-      "delta_pct_7d": -7.9,
-      "ats": "unknown",
+      "company_id": "heron-power",
+      "company_name": "Heron Power",
+      "sector": "Energy",
+      "current_jobs": 36,
+      "delta_7d": -2,
+      "delta_pct_7d": -5.3,
+      "ats": "ashby",
       "sparkline": [
         38,
-        35
+        39
       ],
-      "rank": 52
+      "rank": 68
     },
     {
       "company_id": "gridware",
@@ -1174,7 +2340,7 @@
         33,
         34
       ],
-      "rank": 53
+      "rank": 69
     },
     {
       "company_id": "last-energy",
@@ -1188,7 +2354,18 @@
         34,
         34
       ],
-      "rank": 54
+      "rank": 70
+    },
+    {
+      "company_id": "swarm-aero",
+      "company_name": "Swarm Aero",
+      "sector": "Other",
+      "current_jobs": 34,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 71
     },
     {
       "company_id": "hebbia",
@@ -1202,7 +2379,29 @@
         31,
         32
       ],
-      "rank": 55
+      "rank": 72
+    },
+    {
+      "company_id": "may-mobility",
+      "company_name": "May Mobility",
+      "sector": "Other",
+      "current_jobs": 32,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 73
+    },
+    {
+      "company_id": "arx-robotics",
+      "company_name": "Arx Robotics",
+      "sector": "Other",
+      "current_jobs": 31,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 74
     },
     {
       "company_id": "atomic-semi",
@@ -1216,7 +2415,7 @@
         30,
         30
       ],
-      "rank": 56
+      "rank": 75
     },
     {
       "company_id": "epirus",
@@ -1228,9 +2427,9 @@
       "ats": "greenhouse",
       "sparkline": [
         31,
-        29
+        30
       ],
-      "rank": 57
+      "rank": 76
     },
     {
       "company_id": "kalshi",
@@ -1244,7 +2443,7 @@
         29,
         30
       ],
-      "rank": 58
+      "rank": 77
     },
     {
       "company_id": "vannevar-labs",
@@ -1258,7 +2457,29 @@
         25,
         29
       ],
-      "rank": 59
+      "rank": 78
+    },
+    {
+      "company_id": "antares",
+      "company_name": "Antares",
+      "sector": "Other",
+      "current_jobs": 27,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": null,
+      "rank": 79
+    },
+    {
+      "company_id": "dragos",
+      "company_name": "Dragos",
+      "sector": "Other",
+      "current_jobs": 27,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 80
     },
     {
       "company_id": "picogrid",
@@ -1272,7 +2493,7 @@
         25,
         27
       ],
-      "rank": 60
+      "rank": 81
     },
     {
       "company_id": "aetherflux",
@@ -1286,7 +2507,7 @@
         26,
         26
       ],
-      "rank": 61
+      "rank": 82
     },
     {
       "company_id": "merlin-labs",
@@ -1300,7 +2521,7 @@
         28,
         26
       ],
-      "rank": 62
+      "rank": 83
     },
     {
       "company_id": "north-slope-technologies",
@@ -1314,21 +2535,18 @@
         26,
         26
       ],
-      "rank": 63
+      "rank": 84
     },
     {
-      "company_id": "onebrief",
-      "company_name": "Onebrief",
-      "sector": "Defense Tech",
-      "current_jobs": 26,
-      "delta_7d": 1,
-      "delta_pct_7d": 4.0,
-      "ats": "ashby",
-      "sparkline": [
-        25,
-        26
-      ],
-      "rank": 64
+      "company_id": "avathon",
+      "company_name": "Avathon",
+      "sector": "Other",
+      "current_jobs": 25,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 85
     },
     {
       "company_id": "kobold-metals",
@@ -1342,7 +2560,21 @@
         25,
         25
       ],
-      "rank": 65
+      "rank": 86
+    },
+    {
+      "company_id": "onebrief",
+      "company_name": "Onebrief",
+      "sector": "Defense Tech",
+      "current_jobs": 25,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": [
+        25,
+        26
+      ],
+      "rank": 87
     },
     {
       "company_id": "turion-space",
@@ -1356,7 +2588,7 @@
         26,
         25
       ],
-      "rank": 66
+      "rank": 88
     },
     {
       "company_id": "vulcan-elements",
@@ -1370,7 +2602,29 @@
         23,
         25
       ],
-      "rank": 67
+      "rank": 89
+    },
+    {
+      "company_id": "defense-unicorns",
+      "company_name": "Defense Unicorns",
+      "sector": "Other",
+      "current_jobs": 24,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 90
+    },
+    {
+      "company_id": "scout-ai",
+      "company_name": "Scout AI",
+      "sector": "Other",
+      "current_jobs": 24,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 91
     },
     {
       "company_id": "astro-mechanica",
@@ -1384,7 +2638,7 @@
         23,
         23
       ],
-      "rank": 68
+      "rank": 92
     },
     {
       "company_id": "heart-aerospace",
@@ -1398,7 +2652,7 @@
         23,
         23
       ],
-      "rank": 69
+      "rank": 93
     },
     {
       "company_id": "velo3d",
@@ -1412,7 +2666,7 @@
         23,
         23
       ],
-      "rank": 70
+      "rank": 94
     },
     {
       "company_id": "anysignal",
@@ -1426,7 +2680,7 @@
         22,
         22
       ],
-      "rank": 71
+      "rank": 95
     },
     {
       "company_id": "inversion",
@@ -1440,7 +2694,7 @@
         23,
         22
       ],
-      "rank": 72
+      "rank": 96
     },
     {
       "company_id": "physical-intelligence",
@@ -1454,7 +2708,7 @@
         22,
         22
       ],
-      "rank": 73
+      "rank": 97
     },
     {
       "company_id": "dandelion-energy",
@@ -1468,7 +2722,18 @@
         25,
         21
       ],
-      "rank": 74
+      "rank": 98
+    },
+    {
+      "company_id": "sandboxaq",
+      "company_name": "SandboxAQ",
+      "sector": "Other",
+      "current_jobs": 21,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": null,
+      "rank": 99
     },
     {
       "company_id": "machina-labs",
@@ -1482,7 +2747,7 @@
         19,
         20
       ],
-      "rank": 75
+      "rank": 100
     },
     {
       "company_id": "orchard-robotics",
@@ -1496,7 +2761,18 @@
         20,
         20
       ],
-      "rank": 76
+      "rank": 101
+    },
+    {
+      "company_id": "strider",
+      "company_name": "Strider",
+      "sector": "Other",
+      "current_jobs": 19,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": null,
+      "rank": 102
     },
     {
       "company_id": "airspace-intelligence",
@@ -1510,7 +2786,7 @@
         18,
         18
       ],
-      "rank": 77
+      "rank": 103
     },
     {
       "company_id": "diligent-robotics",
@@ -1524,7 +2800,18 @@
         18,
         18
       ],
-      "rank": 78
+      "rank": 104
+    },
+    {
+      "company_id": "leolabs",
+      "company_name": "LeoLabs",
+      "sector": "Other",
+      "current_jobs": 18,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 105
     },
     {
       "company_id": "fuse-energy",
@@ -1538,7 +2825,7 @@
         17,
         17
       ],
-      "rank": 79
+      "rank": 106
     },
     {
       "company_id": "traba",
@@ -1552,7 +2839,29 @@
         17,
         17
       ],
-      "rank": 80
+      "rank": 107
+    },
+    {
+      "company_id": "vatn-systems",
+      "company_name": "Vatn Systems",
+      "sector": "Other",
+      "current_jobs": 17,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 108
+    },
+    {
+      "company_id": "poseidon-aero",
+      "company_name": "Poseidon Aero",
+      "sector": "Other",
+      "current_jobs": 16,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": null,
+      "rank": 109
     },
     {
       "company_id": "windborne-systems",
@@ -1566,7 +2875,7 @@
         16,
         16
       ],
-      "rank": 81
+      "rank": 110
     },
     {
       "company_id": "first-resonance",
@@ -1580,7 +2889,18 @@
         14,
         15
       ],
-      "rank": 82
+      "rank": 111
+    },
+    {
+      "company_id": "amca",
+      "company_name": "AMCA",
+      "sector": "Other",
+      "current_jobs": 14,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": null,
+      "rank": 112
     },
     {
       "company_id": "chef-robotics",
@@ -1594,7 +2914,7 @@
         14,
         14
       ],
-      "rank": 83
+      "rank": 113
     },
     {
       "company_id": "collaborative-robotics",
@@ -1608,7 +2928,7 @@
         14,
         14
       ],
-      "rank": 84
+      "rank": 114
     },
     {
       "company_id": "conductor-ai",
@@ -1622,7 +2942,7 @@
         12,
         14
       ],
-      "rank": 85
+      "rank": 115
     },
     {
       "company_id": "odys-aviation",
@@ -1636,21 +2956,7 @@
         15,
         14
       ],
-      "rank": 86
-    },
-    {
-      "company_id": "osmo",
-      "company_name": "Osmo",
-      "sector": "Hard Tech",
-      "current_jobs": 14,
-      "delta_7d": -3,
-      "delta_pct_7d": -17.6,
-      "ats": "ashby",
-      "sparkline": [
-        17,
-        14
-      ],
-      "rank": 87
+      "rank": 116
     },
     {
       "company_id": "pivot-bio",
@@ -1664,7 +2970,7 @@
         16,
         14
       ],
-      "rank": 88
+      "rank": 117
     },
     {
       "company_id": "rigetti-computing",
@@ -1678,7 +2984,7 @@
         15,
         14
       ],
-      "rank": 89
+      "rank": 118
     },
     {
       "company_id": "slingshot-aerospace",
@@ -1692,7 +2998,7 @@
         14,
         14
       ],
-      "rank": 90
+      "rank": 119
     },
     {
       "company_id": "venus-aerospace",
@@ -1706,7 +3012,7 @@
         14,
         14
       ],
-      "rank": 91
+      "rank": 120
     },
     {
       "company_id": "atom-computing",
@@ -1720,7 +3026,21 @@
         15,
         13
       ],
-      "rank": 92
+      "rank": 121
+    },
+    {
+      "company_id": "osmo",
+      "company_name": "Osmo",
+      "sector": "Hard Tech",
+      "current_jobs": 13,
+      "delta_7d": -4,
+      "delta_pct_7d": -23.5,
+      "ats": "ashby",
+      "sparkline": [
+        17,
+        14
+      ],
+      "rank": 122
     },
     {
       "company_id": "urban-sky",
@@ -1734,7 +3054,18 @@
         13,
         13
       ],
-      "rank": 93
+      "rank": 123
+    },
+    {
+      "company_id": "world-view-enterprises",
+      "company_name": "World View Enterprises",
+      "sector": "Other",
+      "current_jobs": 13,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": null,
+      "rank": 124
     },
     {
       "company_id": "zanskar",
@@ -1748,7 +3079,29 @@
         13,
         13
       ],
-      "rank": 94
+      "rank": 125
+    },
+    {
+      "company_id": "method-security",
+      "company_name": "Method Security",
+      "sector": "Other",
+      "current_jobs": 12,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": null,
+      "rank": 126
+    },
+    {
+      "company_id": "obviant",
+      "company_name": "Obviant",
+      "sector": "Other",
+      "current_jobs": 12,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": null,
+      "rank": 127
     },
     {
       "company_id": "quindar",
@@ -1762,7 +3115,29 @@
         12,
         12
       ],
-      "rank": 95
+      "rank": 128
+    },
+    {
+      "company_id": "reality-defender",
+      "company_name": "Reality Defender",
+      "sector": "Other",
+      "current_jobs": 12,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": null,
+      "rank": 129
+    },
+    {
+      "company_id": "rune-tech",
+      "company_name": "Rune Tech",
+      "sector": "Other",
+      "current_jobs": 12,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": null,
+      "rank": 130
     },
     {
       "company_id": "amp-robotics",
@@ -1776,7 +3151,7 @@
         8,
         11
       ],
-      "rank": 96
+      "rank": 131
     },
     {
       "company_id": "beacon-ai",
@@ -1790,7 +3165,7 @@
         9,
         11
       ],
-      "rank": 97
+      "rank": 132
     },
     {
       "company_id": "ginkgo-bioworks",
@@ -1804,7 +3179,7 @@
         11,
         11
       ],
-      "rank": 98
+      "rank": 133
     },
     {
       "company_id": "newlimit",
@@ -1818,7 +3193,18 @@
         12,
         11
       ],
-      "rank": 99
+      "rank": 134
+    },
+    {
+      "company_id": "reveal-technology",
+      "company_name": "Reveal Technology",
+      "sector": "Other",
+      "current_jobs": 11,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": null,
+      "rank": 135
     },
     {
       "company_id": "turbineone",
@@ -1832,7 +3218,51 @@
         11,
         11
       ],
-      "rank": 100
+      "rank": 136
+    },
+    {
+      "company_id": "boston-materials",
+      "company_name": "Boston Materials",
+      "sector": "Other",
+      "current_jobs": 10,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": null,
+      "rank": 137
+    },
+    {
+      "company_id": "regent-craft",
+      "company_name": "Regent Craft",
+      "sector": "Other",
+      "current_jobs": 10,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": null,
+      "rank": 138
+    },
+    {
+      "company_id": "salient-motion",
+      "company_name": "Salient Motion",
+      "sector": "Other",
+      "current_jobs": 10,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 139
+    },
+    {
+      "company_id": "skyryse",
+      "company_name": "Skyryse",
+      "sector": "Other",
+      "current_jobs": 10,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 140
     },
     {
       "company_id": "xage-security",
@@ -1846,7 +3276,7 @@
         10,
         10
       ],
-      "rank": 101
+      "rank": 141
     },
     {
       "company_id": "make-rain",
@@ -1860,7 +3290,18 @@
         8,
         9
       ],
-      "rank": 102
+      "rank": 142
+    },
+    {
+      "company_id": "pilgrim",
+      "company_name": "Pilgrim",
+      "sector": "Other",
+      "current_jobs": 9,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": null,
+      "rank": 143
     },
     {
       "company_id": "second-front-systems",
@@ -1874,7 +3315,7 @@
         5,
         9
       ],
-      "rank": 103
+      "rank": 144
     },
     {
       "company_id": "swan-technologies",
@@ -1888,7 +3329,7 @@
         9,
         9
       ],
-      "rank": 104
+      "rank": 145
     },
     {
       "company_id": "twelve",
@@ -1902,7 +3343,7 @@
         9,
         9
       ],
-      "rank": 105
+      "rank": 146
     },
     {
       "company_id": "galvanick",
@@ -1916,7 +3357,7 @@
         7,
         8
       ],
-      "rank": 106
+      "rank": 147
     },
     {
       "company_id": "h3x",
@@ -1930,7 +3371,7 @@
         8,
         8
       ],
-      "rank": 107
+      "rank": 148
     },
     {
       "company_id": "shift5",
@@ -1944,7 +3385,7 @@
         8,
         8
       ],
-      "rank": 108
+      "rank": 149
     },
     {
       "company_id": "starcloud",
@@ -1958,7 +3399,29 @@
         8,
         8
       ],
-      "rank": 109
+      "rank": 150
+    },
+    {
+      "company_id": "wraithwatch",
+      "company_name": "WraithWatch",
+      "sector": "Other",
+      "current_jobs": 8,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": null,
+      "rank": 151
+    },
+    {
+      "company_id": "yubico",
+      "company_name": "Yubico",
+      "sector": "Other",
+      "current_jobs": 8,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 152
     },
     {
       "company_id": "equilibrium-energy",
@@ -1972,7 +3435,18 @@
         7,
         7
       ],
-      "rank": 110
+      "rank": 153
+    },
+    {
+      "company_id": "opaque-systems",
+      "company_name": "Opaque Systems",
+      "sector": "Other",
+      "current_jobs": 7,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 154
     },
     {
       "company_id": "rangeview",
@@ -1986,7 +3460,7 @@
         8,
         7
       ],
-      "rank": 111
+      "rank": 155
     },
     {
       "company_id": "swift-solar",
@@ -2000,7 +3474,18 @@
         7,
         7
       ],
-      "rank": 112
+      "rank": 156
+    },
+    {
+      "company_id": "wirescreen",
+      "company_name": "Wirescreen",
+      "sector": "Other",
+      "current_jobs": 7,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": null,
+      "rank": 157
     },
     {
       "company_id": "workrise",
@@ -2014,7 +3499,7 @@
         7,
         7
       ],
-      "rank": 113
+      "rank": 158
     },
     {
       "company_id": "burro",
@@ -2028,7 +3513,7 @@
         6,
         6
       ],
-      "rank": 114
+      "rank": 159
     },
     {
       "company_id": "exowatt",
@@ -2042,7 +3527,29 @@
         6,
         6
       ],
-      "rank": 115
+      "rank": 160
+    },
+    {
+      "company_id": "hgen",
+      "company_name": "Hgen",
+      "sector": "Other",
+      "current_jobs": 6,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": null,
+      "rank": 161
+    },
+    {
+      "company_id": "privateer",
+      "company_name": "Privateer",
+      "sector": "Other",
+      "current_jobs": 6,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 162
     },
     {
       "company_id": "charm-industrial",
@@ -2056,7 +3563,40 @@
         5,
         5
       ],
-      "rank": 116
+      "rank": 163
+    },
+    {
+      "company_id": "dirac",
+      "company_name": "Dirac",
+      "sector": "Other",
+      "current_jobs": 5,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 164
+    },
+    {
+      "company_id": "hypori",
+      "company_name": "Hypori",
+      "sector": "Other",
+      "current_jobs": 5,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 165
+    },
+    {
+      "company_id": "percipient",
+      "company_name": "Percipient",
+      "sector": "Other",
+      "current_jobs": 5,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": null,
+      "rank": 166
     },
     {
       "company_id": "seurat",
@@ -2070,7 +3610,7 @@
         3,
         5
       ],
-      "rank": 117
+      "rank": 167
     },
     {
       "company_id": "texture-energy",
@@ -2084,7 +3624,7 @@
         5,
         5
       ],
-      "rank": 118
+      "rank": 168
     },
     {
       "company_id": "viam",
@@ -2098,7 +3638,7 @@
         5,
         5
       ],
-      "rank": 119
+      "rank": 169
     },
     {
       "company_id": "cosmic-robotics",
@@ -2112,7 +3652,40 @@
         4,
         4
       ],
-      "rank": 120
+      "rank": 170
+    },
+    {
+      "company_id": "crgo",
+      "company_name": "CRGO",
+      "sector": "Other",
+      "current_jobs": 4,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": null,
+      "rank": 171
+    },
+    {
+      "company_id": "defcon",
+      "company_name": "Defcon",
+      "sector": "Other",
+      "current_jobs": 4,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 172
+    },
+    {
+      "company_id": "distributed-spectrum",
+      "company_name": "Distributed Spectrum",
+      "sector": "Other",
+      "current_jobs": 4,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": null,
+      "rank": 173
     },
     {
       "company_id": "electric-air",
@@ -2126,7 +3699,7 @@
         4,
         4
       ],
-      "rank": 121
+      "rank": 174
     },
     {
       "company_id": "epsilon3",
@@ -2140,7 +3713,7 @@
         4,
         4
       ],
-      "rank": 122
+      "rank": 175
     },
     {
       "company_id": "floodbase",
@@ -2154,7 +3727,7 @@
         4,
         4
       ],
-      "rank": 123
+      "rank": 176
     },
     {
       "company_id": "glimpse",
@@ -2168,7 +3741,29 @@
         5,
         4
       ],
-      "rank": 124
+      "rank": 177
+    },
+    {
+      "company_id": "liquid-instruments",
+      "company_name": "Liquid Instruments",
+      "sector": "Other",
+      "current_jobs": 4,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 178
+    },
+    {
+      "company_id": "resilience",
+      "company_name": "Resilience",
+      "sector": "Other",
+      "current_jobs": 4,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 179
     },
     {
       "company_id": "brimstone",
@@ -2182,7 +3777,7 @@
         3,
         3
       ],
-      "rank": 125
+      "rank": 180
     },
     {
       "company_id": "chariot-defense",
@@ -2196,7 +3791,29 @@
         3,
         3
       ],
-      "rank": 126
+      "rank": 181
+    },
+    {
+      "company_id": "compound-eye",
+      "company_name": "Compound Eye",
+      "sector": "Other",
+      "current_jobs": 3,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "ashby",
+      "sparkline": null,
+      "rank": 182
+    },
+    {
+      "company_id": "durin",
+      "company_name": "Durin",
+      "sector": "Other",
+      "current_jobs": 3,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 183
     },
     {
       "company_id": "dusty-robotics",
@@ -2210,7 +3827,7 @@
         3,
         3
       ],
-      "rank": 127
+      "rank": 184
     },
     {
       "company_id": "elroy-air",
@@ -2224,7 +3841,18 @@
         3,
         3
       ],
-      "rank": 128
+      "rank": 185
+    },
+    {
+      "company_id": "nexla",
+      "company_name": "Nexla",
+      "sector": "Other",
+      "current_jobs": 3,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 186
     },
     {
       "company_id": "podium-automation",
@@ -2238,7 +3866,7 @@
         3,
         3
       ],
-      "rank": 129
+      "rank": 187
     },
     {
       "company_id": "supernal",
@@ -2252,7 +3880,7 @@
         3,
         3
       ],
-      "rank": 130
+      "rank": 188
     },
     {
       "company_id": "amperon",
@@ -2266,7 +3894,29 @@
         2,
         2
       ],
-      "rank": 131
+      "rank": 189
+    },
+    {
+      "company_id": "andesite",
+      "company_name": "Andesite",
+      "sector": "Other",
+      "current_jobs": 2,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 190
+    },
+    {
+      "company_id": "ethos-systems",
+      "company_name": "Ethos Systems",
+      "sector": "Other",
+      "current_jobs": 2,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 191
     },
     {
       "company_id": "impulse-labs",
@@ -2280,7 +3930,7 @@
         2,
         2
       ],
-      "rank": 132
+      "rank": 192
     },
     {
       "company_id": "limbinal",
@@ -2294,7 +3944,7 @@
         2,
         2
       ],
-      "rank": 133
+      "rank": 193
     },
     {
       "company_id": "molten-industries",
@@ -2308,7 +3958,18 @@
         4,
         2
       ],
-      "rank": 134
+      "rank": 194
+    },
+    {
+      "company_id": "valarian",
+      "company_name": "Valarian",
+      "sector": "Other",
+      "current_jobs": 2,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": null,
+      "rank": 195
     },
     {
       "company_id": "bedrock-energy",
@@ -2322,7 +3983,7 @@
         1,
         1
       ],
-      "rank": 135
+      "rank": 196
     },
     {
       "company_id": "bedrock-ocean",
@@ -2335,7 +3996,7 @@
       "sparkline": [
         1
       ],
-      "rank": 136
+      "rank": 197
     },
     {
       "company_id": "capella-space",
@@ -2349,7 +4010,7 @@
         1,
         1
       ],
-      "rank": 137
+      "rank": 198
     },
     {
       "company_id": "cruxocm",
@@ -2363,7 +4024,40 @@
         1,
         1
       ],
-      "rank": 138
+      "rank": 199
+    },
+    {
+      "company_id": "danti-ai",
+      "company_name": "Danti AI",
+      "sector": "Other",
+      "current_jobs": 1,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": null,
+      "rank": 200
+    },
+    {
+      "company_id": "greynoise-intelligence",
+      "company_name": "GreyNoise Intelligence",
+      "sector": "Other",
+      "current_jobs": 1,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "greenhouse",
+      "sparkline": null,
+      "rank": 201
+    },
+    {
+      "company_id": "pison",
+      "company_name": "Pison",
+      "sector": "Other",
+      "current_jobs": 1,
+      "delta_7d": 0,
+      "delta_pct_7d": 0.0,
+      "ats": "lever",
+      "sparkline": null,
+      "rank": 202
     },
     {
       "company_id": "primer-ai",
@@ -2377,7 +4071,7 @@
         1,
         1
       ],
-      "rank": 139
+      "rank": 203
     },
     {
       "company_id": "solestial",
@@ -2391,7 +4085,7 @@
         1,
         1
       ],
-      "rank": 140
+      "rank": 204
     }
   ],
   "us_hubs": [
@@ -2399,17 +4093,22 @@
       "hub_name": "Other US",
       "lat": null,
       "lng": null,
-      "total_jobs": 7552,
-      "company_count": 73,
+      "total_jobs": 10478,
+      "company_count": 102,
       "sector_breakdown": [
         {
+          "sector": "Other",
+          "jobs": 2927,
+          "companies": 30
+        },
+        {
           "sector": "Defense Tech",
-          "jobs": 2468,
+          "jobs": 2471,
           "companies": 10
         },
         {
           "sector": "Space",
-          "jobs": 1419,
+          "jobs": 1414,
           "companies": 12
         },
         {
@@ -2429,17 +4128,17 @@
         },
         {
           "sector": "Energy",
-          "jobs": 373,
+          "jobs": 371,
           "companies": 11
         },
         {
           "sector": "Aviation",
-          "jobs": 342,
+          "jobs": 344,
           "companies": 3
         },
         {
           "sector": "Robotics",
-          "jobs": 293,
+          "jobs": 296,
           "companies": 7
         },
         {
@@ -2454,7 +4153,7 @@
         },
         {
           "sector": "Software",
-          "jobs": 86,
+          "jobs": 85,
           "companies": 2
         },
         {
@@ -2466,11 +4165,6 @@
           "sector": "Semiconductors",
           "jobs": 39,
           "companies": 3
-        },
-        {
-          "sector": "Other",
-          "jobs": 1,
-          "companies": 1
         }
       ]
     },
@@ -2478,17 +4172,22 @@
       "hub_name": "DC Metro",
       "lat": 38.9072,
       "lng": -77.0369,
-      "total_jobs": 6054,
-      "company_count": 31,
+      "total_jobs": 8556,
+      "company_count": 48,
       "sector_breakdown": [
         {
           "sector": "Defense Tech",
-          "jobs": 2826,
+          "jobs": 2829,
           "companies": 11
         },
         {
+          "sector": "Other",
+          "jobs": 2495,
+          "companies": 17
+        },
+        {
           "sector": "Space",
-          "jobs": 1053,
+          "jobs": 1052,
           "companies": 7
         },
         {
@@ -2497,18 +4196,18 @@
           "companies": 4
         },
         {
+          "sector": "Aviation",
+          "jobs": 331,
+          "companies": 2
+        },
+        {
           "sector": "Logistics",
           "jobs": 331,
           "companies": 1
         },
         {
-          "sector": "Aviation",
-          "jobs": 329,
-          "companies": 2
-        },
-        {
           "sector": "Robotics",
-          "jobs": 246,
+          "jobs": 249,
           "companies": 3
         },
         {
@@ -2527,13 +4226,18 @@
       "hub_name": "SF Bay Area",
       "lat": 37.7749,
       "lng": -122.4194,
-      "total_jobs": 5695,
-      "company_count": 55,
+      "total_jobs": 8047,
+      "company_count": 68,
       "sector_breakdown": [
         {
           "sector": "Defense Tech",
-          "jobs": 2678,
+          "jobs": 2682,
           "companies": 8
+        },
+        {
+          "sector": "Other",
+          "jobs": 2346,
+          "companies": 13
         },
         {
           "sector": "AI / ML",
@@ -2542,22 +4246,22 @@
         },
         {
           "sector": "Space",
-          "jobs": 271,
+          "jobs": 270,
           "companies": 5
         },
         {
           "sector": "Robotics",
-          "jobs": 263,
+          "jobs": 264,
           "companies": 8
         },
         {
           "sector": "Energy",
-          "jobs": 257,
+          "jobs": 258,
           "companies": 8
         },
         {
           "sector": "Aviation",
-          "jobs": 220,
+          "jobs": 221,
           "companies": 2
         },
         {
@@ -2596,12 +4300,17 @@
       "hub_name": "LA / South Bay",
       "lat": 33.9425,
       "lng": -118.4081,
-      "total_jobs": 4312,
-      "company_count": 28,
+      "total_jobs": 6721,
+      "company_count": 39,
       "sector_breakdown": [
         {
+          "sector": "Other",
+          "jobs": 2400,
+          "companies": 11
+        },
+        {
           "sector": "Defense Tech",
-          "jobs": 2213,
+          "jobs": 2217,
           "companies": 5
         },
         {
@@ -2611,12 +4320,12 @@
         },
         {
           "sector": "Aviation",
-          "jobs": 369,
+          "jobs": 371,
           "companies": 5
         },
         {
           "sector": "Robotics",
-          "jobs": 288,
+          "jobs": 291,
           "companies": 2
         },
         {
@@ -2647,50 +4356,21 @@
       ]
     },
     {
-      "hub_name": "Boston",
-      "lat": 42.3601,
-      "lng": -71.0589,
-      "total_jobs": 3329,
-      "company_count": 11,
-      "sector_breakdown": [
-        {
-          "sector": "Defense Tech",
-          "jobs": 2094,
-          "companies": 3
-        },
-        {
-          "sector": "AI / ML",
-          "jobs": 1114,
-          "companies": 4
-        },
-        {
-          "sector": "Robotics",
-          "jobs": 85,
-          "companies": 2
-        },
-        {
-          "sector": "Space",
-          "jobs": 25,
-          "companies": 1
-        },
-        {
-          "sector": "Biotech",
-          "jobs": 11,
-          "companies": 1
-        }
-      ]
-    },
-    {
       "hub_name": "Seattle",
       "lat": 47.6062,
       "lng": -122.3321,
-      "total_jobs": 3275,
-      "company_count": 14,
+      "total_jobs": 5469,
+      "company_count": 19,
       "sector_breakdown": [
         {
           "sector": "Defense Tech",
-          "jobs": 2266,
+          "jobs": 2270,
           "companies": 4
+        },
+        {
+          "sector": "Other",
+          "jobs": 2190,
+          "companies": 5
         },
         {
           "sector": "Logistics",
@@ -2725,16 +4405,60 @@
       ]
     },
     {
-      "hub_name": "Denver",
-      "lat": 39.7392,
-      "lng": -104.9903,
-      "total_jobs": 3119,
-      "company_count": 17,
+      "hub_name": "Boston",
+      "lat": 42.3601,
+      "lng": -71.0589,
+      "total_jobs": 3856,
+      "company_count": 13,
       "sector_breakdown": [
         {
           "sector": "Defense Tech",
-          "jobs": 2279,
+          "jobs": 2098,
+          "companies": 3
+        },
+        {
+          "sector": "AI / ML",
+          "jobs": 1114,
+          "companies": 4
+        },
+        {
+          "sector": "Other",
+          "jobs": 523,
+          "companies": 2
+        },
+        {
+          "sector": "Robotics",
+          "jobs": 85,
+          "companies": 2
+        },
+        {
+          "sector": "Space",
+          "jobs": 25,
+          "companies": 1
+        },
+        {
+          "sector": "Biotech",
+          "jobs": 11,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Denver",
+      "lat": 39.7392,
+      "lng": -104.9903,
+      "total_jobs": 3641,
+      "company_count": 18,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 2282,
           "companies": 5
+        },
+        {
+          "sector": "Other",
+          "jobs": 519,
+          "companies": 1
         },
         {
           "sector": "Logistics",
@@ -2777,12 +4501,17 @@
       "hub_name": "Atlanta",
       "lat": 33.749,
       "lng": -84.388,
-      "total_jobs": 2879,
-      "company_count": 7,
+      "total_jobs": 3439,
+      "company_count": 9,
       "sector_breakdown": [
         {
           "sector": "Defense Tech",
-          "jobs": 1983,
+          "jobs": 1987,
+          "companies": 2
+        },
+        {
+          "sector": "Other",
+          "jobs": 551,
           "companies": 2
         },
         {
@@ -2792,7 +4521,7 @@
         },
         {
           "sector": "Robotics",
-          "jobs": 187,
+          "jobs": 190,
           "companies": 1
         },
         {
@@ -2802,12 +4531,12 @@
         },
         {
           "sector": "Aviation",
-          "jobs": 113,
+          "jobs": 114,
           "companies": 1
         },
         {
           "sector": "Hard Tech",
-          "jobs": 35,
+          "jobs": 36,
           "companies": 1
         }
       ]
@@ -2816,8 +4545,8 @@
       "hub_name": "NYC",
       "lat": 40.7128,
       "lng": -74.006,
-      "total_jobs": 2486,
-      "company_count": 23,
+      "total_jobs": 3058,
+      "company_count": 31,
       "sector_breakdown": [
         {
           "sector": "AI / ML",
@@ -2828,6 +4557,11 @@
           "sector": "Defense Tech",
           "jobs": 605,
           "companies": 6
+        },
+        {
+          "sector": "Other",
+          "jobs": 572,
+          "companies": 8
         },
         {
           "sector": "Logistics",
@@ -2841,12 +4575,12 @@
         },
         {
           "sector": "Software",
-          "jobs": 82,
+          "jobs": 81,
           "companies": 1
         },
         {
           "sector": "Hard Tech",
-          "jobs": 35,
+          "jobs": 36,
           "companies": 1
         },
         {
@@ -2865,13 +4599,18 @@
       "hub_name": "Austin",
       "lat": 30.2672,
       "lng": -97.7431,
-      "total_jobs": 2321,
-      "company_count": 19,
+      "total_jobs": 3040,
+      "company_count": 25,
       "sector_breakdown": [
         {
           "sector": "AI / ML",
           "jobs": 1032,
           "companies": 4
+        },
+        {
+          "sector": "Other",
+          "jobs": 715,
+          "companies": 6
         },
         {
           "sector": "Space",
@@ -2880,7 +4619,7 @@
         },
         {
           "sector": "Robotics",
-          "jobs": 211,
+          "jobs": 214,
           "companies": 3
         },
         {
@@ -2910,26 +4649,7 @@
         },
         {
           "sector": "Hard Tech",
-          "jobs": 35,
-          "companies": 1
-        }
-      ]
-    },
-    {
-      "hub_name": "Huntsville",
-      "lat": 34.7304,
-      "lng": -86.5861,
-      "total_jobs": 2011,
-      "company_count": 2,
-      "sector_breakdown": [
-        {
-          "sector": "Defense Tech",
-          "jobs": 1822,
-          "companies": 1
-        },
-        {
-          "sector": "Space",
-          "jobs": 189,
+          "jobs": 36,
           "companies": 1
         }
       ]
@@ -2938,12 +4658,17 @@
       "hub_name": "Remote / US-Wide",
       "lat": null,
       "lng": null,
-      "total_jobs": 1875,
-      "company_count": 28,
+      "total_jobs": 2598,
+      "company_count": 37,
       "sector_breakdown": [
         {
+          "sector": "Other",
+          "jobs": 725,
+          "companies": 9
+        },
+        {
           "sector": "Defense Tech",
-          "jobs": 526,
+          "jobs": 523,
           "companies": 7
         },
         {
@@ -2978,7 +4703,7 @@
         },
         {
           "sector": "Hard Tech",
-          "jobs": 67,
+          "jobs": 68,
           "companies": 3
         },
         {
@@ -2999,15 +4724,34 @@
       ]
     },
     {
-      "hub_name": "Raleigh / Durham",
-      "lat": 35.7796,
-      "lng": -78.6382,
-      "total_jobs": 1848,
+      "hub_name": "Huntsville",
+      "lat": 34.7304,
+      "lng": -86.5861,
+      "total_jobs": 2015,
       "company_count": 2,
       "sector_breakdown": [
         {
           "sector": "Defense Tech",
-          "jobs": 1848,
+          "jobs": 1826,
+          "companies": 1
+        },
+        {
+          "sector": "Space",
+          "jobs": 189,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Raleigh / Durham",
+      "lat": 35.7796,
+      "lng": -78.6382,
+      "total_jobs": 1851,
+      "company_count": 2,
+      "sector_breakdown": [
+        {
+          "sector": "Defense Tech",
+          "jobs": 1851,
           "companies": 2
         }
       ]
@@ -3016,12 +4760,12 @@
       "hub_name": "Fort Stockton",
       "lat": 30.894,
       "lng": -102.8793,
-      "total_jobs": 1822,
+      "total_jobs": 1826,
       "company_count": 1,
       "sector_breakdown": [
         {
           "sector": "Defense Tech",
-          "jobs": 1822,
+          "jobs": 1826,
           "companies": 1
         }
       ]
@@ -3030,12 +4774,12 @@
       "hub_name": "New Hampshire",
       "lat": 42.9956,
       "lng": -71.4548,
-      "total_jobs": 1822,
+      "total_jobs": 1826,
       "company_count": 1,
       "sector_breakdown": [
         {
           "sector": "Defense Tech",
-          "jobs": 1822,
+          "jobs": 1826,
           "companies": 1
         }
       ]
@@ -3044,12 +4788,80 @@
       "hub_name": "Las Vegas",
       "lat": 36.1699,
       "lng": -115.1398,
-      "total_jobs": 1822,
+      "total_jobs": 1826,
       "company_count": 1,
       "sector_breakdown": [
         {
           "sector": "Defense Tech",
-          "jobs": 1822,
+          "jobs": 1826,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Phoenix / Tucson",
+      "lat": 33.4484,
+      "lng": -112.074,
+      "total_jobs": 1579,
+      "company_count": 6,
+      "sector_breakdown": [
+        {
+          "sector": "Other",
+          "jobs": 532,
+          "companies": 2
+        },
+        {
+          "sector": "AI / ML",
+          "jobs": 407,
+          "companies": 1
+        },
+        {
+          "sector": "Space",
+          "jobs": 272,
+          "companies": 1
+        },
+        {
+          "sector": "Robotics",
+          "jobs": 190,
+          "companies": 1
+        },
+        {
+          "sector": "Defense Tech",
+          "jobs": 178,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Dallas / Fort Worth",
+      "lat": 32.7767,
+      "lng": -96.797,
+      "total_jobs": 1452,
+      "company_count": 6,
+      "sector_breakdown": [
+        {
+          "sector": "Other",
+          "jobs": 566,
+          "companies": 2
+        },
+        {
+          "sector": "AI / ML",
+          "jobs": 407,
+          "companies": 1
+        },
+        {
+          "sector": "Defense Tech",
+          "jobs": 254,
+          "companies": 1
+        },
+        {
+          "sector": "Logistics",
+          "jobs": 133,
+          "companies": 1
+        },
+        {
+          "sector": "Energy",
+          "jobs": 92,
           "companies": 1
         }
       ]
@@ -3058,8 +4870,8 @@
       "hub_name": "San Diego",
       "lat": 32.7157,
       "lng": -117.1611,
-      "total_jobs": 1165,
-      "company_count": 6,
+      "total_jobs": 1208,
+      "company_count": 8,
       "sector_breakdown": [
         {
           "sector": "Defense Tech",
@@ -3080,35 +4892,11 @@
           "sector": "AI / ML",
           "jobs": 170,
           "companies": 1
-        }
-      ]
-    },
-    {
-      "hub_name": "Phoenix / Tucson",
-      "lat": 33.4484,
-      "lng": -112.074,
-      "total_jobs": 1044,
-      "company_count": 4,
-      "sector_breakdown": [
-        {
-          "sector": "AI / ML",
-          "jobs": 407,
-          "companies": 1
         },
         {
-          "sector": "Space",
-          "jobs": 272,
-          "companies": 1
-        },
-        {
-          "sector": "Robotics",
-          "jobs": 187,
-          "companies": 1
-        },
-        {
-          "sector": "Defense Tech",
-          "jobs": 178,
-          "companies": 1
+          "sector": "Other",
+          "jobs": 43,
+          "companies": 2
         }
       ]
     },
@@ -3116,7 +4904,7 @@
       "hub_name": "Houston",
       "lat": 29.7604,
       "lng": -95.3698,
-      "total_jobs": 991,
+      "total_jobs": 994,
       "company_count": 8,
       "sector_breakdown": [
         {
@@ -3126,7 +4914,7 @@
         },
         {
           "sector": "Robotics",
-          "jobs": 232,
+          "jobs": 235,
           "companies": 2
         },
         {
@@ -3157,20 +4945,20 @@
       ]
     },
     {
-      "hub_name": "Dallas / Fort Worth",
-      "lat": 32.7767,
-      "lng": -96.797,
-      "total_jobs": 886,
+      "hub_name": "Chicago",
+      "lat": 41.8781,
+      "lng": -87.6298,
+      "total_jobs": 992,
       "company_count": 4,
       "sector_breakdown": [
         {
-          "sector": "AI / ML",
-          "jobs": 407,
+          "sector": "Other",
+          "jobs": 519,
           "companies": 1
         },
         {
           "sector": "Defense Tech",
-          "jobs": 254,
+          "jobs": 248,
           "companies": 1
         },
         {
@@ -3215,25 +5003,63 @@
       ]
     },
     {
-      "hub_name": "Chicago",
-      "lat": 41.8781,
-      "lng": -87.6298,
-      "total_jobs": 473,
+      "hub_name": "Salt Lake City",
+      "lat": 40.7608,
+      "lng": -111.891,
+      "total_jobs": 613,
       "company_count": 3,
       "sector_breakdown": [
         {
-          "sector": "Defense Tech",
-          "jobs": 248,
+          "sector": "Other",
+          "jobs": 519,
           "companies": 1
         },
         {
-          "sector": "Logistics",
-          "jobs": 133,
+          "sector": "Software",
+          "jobs": 81,
           "companies": 1
         },
         {
-          "sector": "Energy",
-          "jobs": 92,
+          "sector": "Space",
+          "jobs": 13,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Philadelphia",
+      "lat": 39.9526,
+      "lng": -75.1652,
+      "total_jobs": 565,
+      "company_count": 3,
+      "sector_breakdown": [
+        {
+          "sector": "Other",
+          "jobs": 519,
+          "companies": 1
+        },
+        {
+          "sector": "Robotics",
+          "jobs": 46,
+          "companies": 2
+        }
+      ]
+    },
+    {
+      "hub_name": "Columbus",
+      "lat": 39.9612,
+      "lng": -82.9988,
+      "total_jobs": 537,
+      "company_count": 2,
+      "sector_breakdown": [
+        {
+          "sector": "Other",
+          "jobs": 519,
+          "companies": 1
+        },
+        {
+          "sector": "Robotics",
+          "jobs": 18,
           "companies": 1
         }
       ]
@@ -3242,8 +5068,8 @@
       "hub_name": "Ann Arbor / Detroit",
       "lat": 42.2808,
       "lng": -83.743,
-      "total_jobs": 272,
-      "company_count": 2,
+      "total_jobs": 304,
+      "company_count": 3,
       "sector_breakdown": [
         {
           "sector": "Autonomy",
@@ -3254,6 +5080,35 @@
           "sector": "Biotech",
           "jobs": 77,
           "companies": 1
+        },
+        {
+          "sector": "Other",
+          "jobs": 32,
+          "companies": 1
+        }
+      ]
+    },
+    {
+      "hub_name": "Rochester",
+      "lat": 43.1566,
+      "lng": -77.6088,
+      "total_jobs": 164,
+      "company_count": 3,
+      "sector_breakdown": [
+        {
+          "sector": "Other",
+          "jobs": 108,
+          "companies": 1
+        },
+        {
+          "sector": "Hard Tech",
+          "jobs": 38,
+          "companies": 1
+        },
+        {
+          "sector": "Robotics",
+          "jobs": 18,
+          "companies": 1
         }
       ]
     },
@@ -3261,12 +5116,12 @@
       "hub_name": "Pittsburgh",
       "lat": 40.4406,
       "lng": -79.9959,
-      "total_jobs": 152,
+      "total_jobs": 153,
       "company_count": 4,
       "sector_breakdown": [
         {
           "sector": "Robotics",
-          "jobs": 91,
+          "jobs": 92,
           "companies": 2
         },
         {
@@ -3282,86 +5137,20 @@
       ]
     },
     {
-      "hub_name": "Salt Lake City",
-      "lat": 40.7608,
-      "lng": -111.891,
-      "total_jobs": 95,
-      "company_count": 2,
-      "sector_breakdown": [
-        {
-          "sector": "Software",
-          "jobs": 82,
-          "companies": 1
-        },
-        {
-          "sector": "Space",
-          "jobs": 13,
-          "companies": 1
-        }
-      ]
-    },
-    {
       "hub_name": "Portland / Salem",
       "lat": 45.5152,
       "lng": -122.6784,
-      "total_jobs": 60,
+      "total_jobs": 61,
       "company_count": 2,
       "sector_breakdown": [
         {
           "sector": "Robotics",
-          "jobs": 46,
+          "jobs": 47,
           "companies": 1
         },
         {
           "sector": "AI / ML",
           "jobs": 14,
-          "companies": 1
-        }
-      ]
-    },
-    {
-      "hub_name": "Rochester",
-      "lat": 43.1566,
-      "lng": -77.6088,
-      "total_jobs": 56,
-      "company_count": 2,
-      "sector_breakdown": [
-        {
-          "sector": "Hard Tech",
-          "jobs": 38,
-          "companies": 1
-        },
-        {
-          "sector": "Robotics",
-          "jobs": 18,
-          "companies": 1
-        }
-      ]
-    },
-    {
-      "hub_name": "Philadelphia",
-      "lat": 39.9526,
-      "lng": -75.1652,
-      "total_jobs": 46,
-      "company_count": 2,
-      "sector_breakdown": [
-        {
-          "sector": "Robotics",
-          "jobs": 46,
-          "companies": 2
-        }
-      ]
-    },
-    {
-      "hub_name": "Columbus",
-      "lat": 39.9612,
-      "lng": -82.9988,
-      "total_jobs": 18,
-      "company_count": 1,
-      "sector_breakdown": [
-        {
-          "sector": "Robotics",
-          "jobs": 18,
           "companies": 1
         }
       ]
@@ -3397,26 +5186,26 @@
   ],
   "ats_breakdown": {
     "ashby": {
-      "companies": 49,
-      "total_jobs": 1690
+      "companies": 67,
+      "total_jobs": 2021
     },
     "lever": {
-      "companies": 29,
-      "total_jobs": 1414
+      "companies": 38,
+      "total_jobs": 1468
     },
     "greenhouse": {
-      "companies": 55,
-      "total_jobs": 5338
+      "companies": 92,
+      "total_jobs": 8471
     },
     "unknown": {
       "companies": 7,
-      "total_jobs": 1051
+      "total_jobs": 1050
     }
   },
   "meta": {
     "registry_companies": 209,
-    "active_companies": 140,
-    "total_open_jobs": 9493,
+    "active_companies": 204,
+    "total_open_jobs": 13010,
     "sectors_count": 14,
     "us_hubs_count": 29
   }
