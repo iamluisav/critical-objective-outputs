@@ -30,10 +30,9 @@ ALLOWLIST="
 feed_greenhouse.xml
 feed_ashby.xml
 feed_lever.xml
+feed.xml
 jobs.json
-feed.csv
 data/jobs/jobs.json
-data/jobs/jobs.raw.json
 README.md
 LICENSE
 .gitignore
@@ -62,9 +61,11 @@ fi
 REPO_ROOT="$(git rev-parse --show-toplevel)"
 cd "$REPO_ROOT"
 
-# Collect candidate paths: tracked + staged, deduped via sort -u.
+# Collect candidate paths: tracked + staged-add/modify/rename, deduped.
+# --diff-filter=ACMR excludes staged deletions — removing a file should not
+# trip the allowlist.
 CANDIDATES="$(
-  { git ls-files; git diff --cached --name-only; } | sort -u
+  { git ls-files; git diff --cached --name-only --diff-filter=ACMR; } | sort -u
 )"
 
 VIOLATIONS=""
