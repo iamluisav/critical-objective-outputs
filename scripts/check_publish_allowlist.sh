@@ -32,7 +32,6 @@ feed_ashby.xml
 feed_lever.xml
 feed.xml
 jobs.json
-data/jobs/jobs.json
 README.md
 LICENSE
 .gitignore
