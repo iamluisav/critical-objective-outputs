@@ -1,0 +1,6 @@
+#!/bin/bash
+# Pre-commit gate: refuse commits that would introduce files outside the
+# publish allowlist. See scripts/check_publish_allowlist.sh for rationale
+# and the allowlist itself.
+set -euo pipefail
+exec "$(git rev-parse --show-toplevel)/scripts/check_publish_allowlist.sh"
