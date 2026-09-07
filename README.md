@@ -12,6 +12,7 @@ artifact types without updating the allowlist below.
 | File | Shape | Purpose |
 | --- | --- | --- |
 | `jobs.json` | JSON array | Slim job records (no descriptions) for website and board consumers |
+| `government.json` | JSON array | Federal roles from the USAJOBS Search API (curated agencies and series), same record shape as `jobs.json` plus `close_date`, `grade`, `series`, `series_code`, `clearance`, `hiring_paths`, `location_count`; no descriptions |
 | `feed_greenhouse.xml` | XML | Greenhouse-sourced jobs for board ingestion (description stripped) |
 | `feed_ashby.xml` | XML | Ashby-sourced jobs for board ingestion (description stripped) |
 | `feed_lever.xml` | XML | Lever-sourced jobs for board ingestion (description stripped) |
@@ -19,7 +20,8 @@ artifact types without updating the allowlist below.
 All records carry only publicly observable fields: `job_id`, `job_title`,
 `company_name`, `company_url`, `company_logo_url`, `job_url`,
 `application_link`, `publish_date`, `job_type`, `location`,
-`location_type`, `department`, `sector`.
+`location_type`, `department`, `sector`, `salary_min`, `salary_max`,
+`salary_currency`, `pay_source`, `job_function`, `experience_level`.
 
 The `description` field is intentionally excluded from XML feeds. Consumers
 that need descriptions should fetch them directly from `application_link`,
