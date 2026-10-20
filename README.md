@@ -17,6 +17,7 @@ artifact types without updating the allowlist below.
 | `feed_greenhouse.xml` | XML | Greenhouse-sourced jobs for board ingestion (description stripped) |
 | `feed_ashby.xml` | XML | Ashby-sourced jobs for board ingestion (description stripped) |
 | `feed_lever.xml` | XML | Lever-sourced jobs for board ingestion (description stripped) |
+| `feed_custom.xml` | XML | Verified official employer careers pages, currently ZeroEyes (same sanitized record shape; no descriptions) |
 
 All records carry only publicly observable fields: `job_id`, `job_title`,
 `company_name`, `company_url`, `company_logo_url`, `job_url`,
@@ -26,7 +27,7 @@ All records carry only publicly observable fields: `job_id`, `job_title`,
 
 The `description` field is intentionally excluded from XML feeds. Consumers
 that need descriptions should fetch them directly from `application_link`,
-which points at the authoritative ATS page. This keeps the public repo
+which points at the authoritative ATS or employer application page. This keeps the public repo
 small and keeps us from re-hosting content we don't own.
 
 ## What's not here — and will not be accepted
@@ -61,6 +62,12 @@ all untracked files or validate every field inside allowed JSON/XML. Exporters
 must still select public-safe fields. Update the allowlist and producer together
 when introducing an artifact type. The local pre-commit hook adds a manual-use
 guard when installed.
+
+The custom feed is initially seeded empty with this allowlist change; the
+producer's guarded ZeroEyes refresh populates it after source verification.
+No registries, source HTML, descriptions, form submissions, or private
+intelligence are permitted. The local `daily_run.sh` remains outside the
+public publish path.
 
 ## Historical note
 

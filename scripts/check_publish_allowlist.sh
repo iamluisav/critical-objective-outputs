@@ -30,6 +30,7 @@ ALLOWLIST="
 feed_greenhouse.xml
 feed_ashby.xml
 feed_lever.xml
+feed_custom.xml
 feed.xml
 jobs.json
 government.json
