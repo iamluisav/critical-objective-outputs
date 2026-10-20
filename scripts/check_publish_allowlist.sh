@@ -9,7 +9,7 @@
 # Rather than rely on reviewers noticing a wrong file in a daily auto-commit,
 # this script rejects anything not on an explicit allowlist. It is invoked
 # from two places:
-#   1. daily_run.sh Step 6, before `git push`  (catches pipeline accidents)
+#   1. feed-repo publishing workflows, after explicit staging and before push
 #   2. .githooks/pre-commit                     (catches manual accidents)
 #
 # To allow a new file type here, add it to ALLOWLIST below in the same PR

@@ -4,7 +4,8 @@ Public publish surface for sanitized job-feed artifacts from the
 [Critical Objective](https://criticalobjective.com) pipeline.
 
 This repo is write-only from the pipeline side. It is not a development
-repo, it takes no pull requests, and it is not a place to add new
+repo for application features; documentation/contract maintenance is separate
+from generated refreshes. It is not a place to add new
 artifact types without updating the allowlist below.
 
 ## What's here
@@ -45,17 +46,21 @@ repo — a transient commit is still a leak.
 
 ## Publish contract
 
-Two producers write to this repo:
+Public artifact production belongs to GitHub Actions in `critical-objective-feed`:
 
-1. **CI** — `critical-objective-feed/.github/workflows/build-feed.yml`
-   publishes `feed_*.xml` and `jobs.json` on its daily schedule.
-2. **No other producer.** The local `daily_run.sh` was removed from the
-   publish path on 2026-04-15.
+1. `build-feed.yml` publishes the scheduled full refresh.
+2. `refresh-selected-feeds.yml` publishes bounded employer refreshes on demand.
 
-Both producers run `scripts/check_publish_allowlist.sh` before push. The
-gate rejects anything not on the explicit allowlist inside that script.
-To accept a new artifact here, update the allowlist in the same commit
-that introduces the producer. No one-off exceptions.
+The laptop `daily_run.sh` publishes private intelligence to the website repo;
+it does not publish public jobs/XML here.
+
+The publisher contract is: require tests, serialize writers, stage only explicit
+artifact paths, run `scripts/check_publish_allowlist.sh` on the staged result,
+then commit/push. The gate checks tracked/staged filenames; it does not inspect
+all untracked files or validate every field inside allowed JSON/XML. Exporters
+must still select public-safe fields. Update the allowlist and producer together
+when introducing an artifact type. The local pre-commit hook adds a manual-use
+guard when installed.
 
 ## Historical note
 
@@ -63,11 +68,10 @@ that introduces the producer. No one-off exceptions.
 being removed. It contained internal scoring signals applied to publicly
 observable job counts. The contents are low-severity (no credentials,
 no PII, no candidate records), but they did not belong here. The allowlist
-gate landed on 2026-04-15 to make that class of leak structurally
-impossible.
+gate landed on 2026-04-15 to reject disallowed tracked/staged file paths.
 
-History has not been rewritten. The gate prevents recurrence; that is the
-correct long-term fix.
+History has not been rewritten. The gate and explicit staging reduce recurrence risk;
+exporter review remains necessary for allowed files.
 
 ## License
 
