@@ -25,7 +25,9 @@
 set -eu
 
 # Allowlist. Entries are matched as exact paths OR shell globs against
-# paths relative to the repo root. Keep this list minimal.
+# paths relative to the repo root. Keep this list minimal. Generated data
+# entries are current-delivery compatibility only; they do not authorize new
+# artifact classes or publication of derived history.
 ALLOWLIST="
 feed_greenhouse.xml
 feed_ashby.xml
@@ -36,7 +38,6 @@ jobs.json
 jobs-manifest.json
 government.json
 README.md
-LICENSE
 .gitignore
 .gitattributes
 scripts/check_publish_allowlist.sh
@@ -62,6 +63,13 @@ if ! git rev-parse --show-toplevel >/dev/null 2>&1; then
 fi
 REPO_ROOT="$(git rev-parse --show-toplevel)"
 cd "$REPO_ROOT"
+
+for required in README.md scripts/check_publish_allowlist.sh; do
+  if [ ! -f "$required" ]; then
+    echo "check_publish_allowlist: required contract file missing: $required" >&2
+    exit 1
+  fi
+done
 
 # Collect candidate paths: tracked + staged-add/modify/rename, deduped.
 # --diff-filter=ACMR excludes staged deletions — removing a file should not

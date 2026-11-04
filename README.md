@@ -78,6 +78,26 @@ No registries, source HTML, descriptions, form submissions, or private
 intelligence are permitted. The local `daily_run.sh` remains outside the
 public publish path.
 
+## Transitional serving boundary
+
+This repository is the current public compatibility layer for sanitized job
+artifacts. It is not the long-term storage system or the source of private
+intelligence.
+
+Current artifacts may remain publicly readable. Long-term observation history,
+source health, registries, scoring, research and derived hiring signals belong in
+private systems.
+
+Do not add new consumers that hardcode GitHub Raw URLs. New consumers must use
+configurable artifact URLs so distribution can move to a Critical Objective-owned
+data domain without another application rewrite.
+
+The target is immutable, versioned artifacts in object storage; a small hash-bound
+current manifest; stable compatibility feed URLs; and private retention of
+historical snapshots. Git history currently retains prior public snapshots and
+can be used to reconstruct a time series. That is historical exposure, not the
+intended product contract. Do not publish additional derived history here.
+
 ## Historical note
 
 `monitor-signals.json` appeared briefly in commits on 2026-04-14 before
@@ -89,7 +109,12 @@ gate landed on 2026-04-15 to reject disallowed tracked/staged file paths.
 History has not been rewritten. The gate and explicit staging reduce recurrence risk;
 exporter review remains necessary for allowed files.
 
-## License
+## Usage status
 
-See `LICENSE`.
+This repository is publicly readable because current production consumers use
+unauthenticated artifact URLs. Public visibility is a transport decision, not a
+defined license for bulk reuse or redistribution.
+
+No dataset or code license is currently granted here. Add reviewed data-use terms
+before representing external reuse rights.
 
