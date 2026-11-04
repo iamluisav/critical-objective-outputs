@@ -22,6 +22,22 @@ artifact types without updating the allowlist below.
 
 `government.json` is optional by design. The scheduled producer writes it only when both `USAJOBS_API_KEY` and `USAJOBS_USER_AGENT` are configured and a current fetch succeeds. It is absent from the current public snapshot. The publisher does not synthesize an empty file: absence means the federal source is not configured or was not published, not that federal hiring is zero.
 
+## Coverage summary unit
+
+`jobs-manifest.json` remains schema version 1. New canonical-company snapshots
+include `source_summary.unit: "canonical_companies"`. For those snapshots,
+`total`, `attempted`, `successful`, `empty`, `failed`, and `skipped` describe
+active canonical companies rather than raw source-configuration rows. Exact
+duplicate configurations collapse only within the same private source identity;
+a verified inactive lifecycle is excluded from the active denominator; and an
+unavailable company remains skipped and unknown, never a confirmed zero.
+
+Legacy schema-version-1 manifests without `source_summary.unit` must be read as
+`source_configurations`. Unknown unit values are invalid. In particular, public
+commit `97d9bf66f3fa2f4a3bfa4c4b517a9180c6019dab` has no unit marker and its
+source summary is the legacy configuration-row aggregate. Do not compare its
+coverage counts directly with a marked canonical-company snapshot.
+
 All records carry only publicly observable fields: `job_id`, `job_title`,
 `company_name`, `company_url`, `company_logo_url`, `job_url`,
 `application_link`, `publish_date`, `job_type`, `location`,
