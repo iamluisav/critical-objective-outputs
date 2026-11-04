@@ -84,6 +84,10 @@ This repository is the current public compatibility layer for sanitized job
 artifacts. It is not the long-term storage system or the source of private
 intelligence.
 
+The verified owned-code references, documented-but-unverified Job Boardly XML
+imports, unknown external-consumer risk and mandatory no-privatize checklist are
+maintained in [CONSUMERS.md](CONSUMERS.md).
+
 Current artifacts may remain publicly readable. Long-term observation history,
 source health, registries, scoring, research and derived hiring signals belong in
 private systems.
