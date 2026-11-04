@@ -33,6 +33,7 @@ feed_lever.xml
 feed_custom.xml
 feed.xml
 jobs.json
+jobs-manifest.json
 government.json
 README.md
 LICENSE
@@ -99,3 +100,4 @@ website repo (critical-objective-web) instead.
 
 MSG
 exit 1
+

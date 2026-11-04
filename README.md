@@ -13,6 +13,7 @@ artifact types without updating the allowlist below.
 | File | Shape | Purpose |
 | --- | --- | --- |
 | `jobs.json` | JSON array | Slim job records (no descriptions) for website and board consumers |
+| `jobs-manifest.json` | JSON object, schema version 1 | SHA-256 binding to exact jobs bytes, observed listing/posting counts, observation window and aggregate source coverage; no per-source diagnostics |
 | `government.json` | JSON array | Federal roles from the USAJOBS Search API (curated agencies and series), same record shape as `jobs.json` plus `close_date`, `grade`, `series`, `series_code`, `clearance`, `hiring_paths`, `location_count`; no descriptions |
 | `feed_greenhouse.xml` | XML | Greenhouse-sourced jobs for board ingestion (description stripped) |
 | `feed_ashby.xml` | XML | Ashby-sourced jobs for board ingestion (description stripped) |
@@ -24,6 +25,13 @@ All records carry only publicly observable fields: `job_id`, `job_title`,
 `application_link`, `publish_date`, `job_type`, `location`,
 `location_type`, `department`, `sector`, `salary_min`, `salary_max`,
 `salary_currency`, `pay_source`, `job_function`, `experience_level`.
+
+Source provenance may additionally include `source_posting_id`, `company_slug`,
+`company_identity_source`, `curation_tier` (explicit `core`, `adjacent` or
+`unknown` only), `source`, `source_type`, `source_posted_at`, `source_updated_at`,
+`first_seen_at` and `source_checked_at`. Unknown publication times remain null.
+The producer selects these through an explicit field/value allowlist; private
+rankings, source records and intelligence are not approved by these additions.
 
 The `description` field is intentionally excluded from XML feeds. Consumers
 that need descriptions should fetch them directly from `application_link`,
@@ -56,7 +64,8 @@ The laptop `daily_run.sh` publishes private intelligence to the website repo;
 it does not publish public jobs/XML here.
 
 The publisher contract is: require tests, serialize writers, stage only explicit
-artifact paths, run `scripts/check_publish_allowlist.sh` on the staged result,
+artifact paths (including the paired jobs/manifest files), validate their exact
+hash and counts in the producer, run `scripts/check_publish_allowlist.sh` on the staged result,
 then commit/push. The gate checks tracked/staged filenames; it does not inspect
 all untracked files or validate every field inside allowed JSON/XML. Exporters
 must still select public-safe fields. Update the allowlist and producer together
@@ -83,3 +92,4 @@ exporter review remains necessary for allowed files.
 ## License
 
 See `LICENSE`.
+
