@@ -38,6 +38,7 @@ jobs.json
 jobs-manifest.json
 government.json
 README.md
+CONSUMERS.md
 .gitignore
 .gitattributes
 scripts/check_publish_allowlist.sh
